@@ -1,0 +1,171 @@
+[
+  {
+    "region": "Eastern Province",
+    "total_workers": 4153353,
+    "saudi_workers": 2176958,
+    "expat_workers": 1976395,
+    "saudization_rate": 52.41,
+    "growth_trend_q": [
+      2.97,
+      3.02,
+      3.07
+    ],
+    "avg_growth_trend": 3.02
+  },
+  {
+    "region": "Tabuk",
+    "total_workers": 4244917,
+    "saudi_workers": 2245410,
+    "expat_workers": 1999507,
+    "saudization_rate": 52.9,
+    "growth_trend_q": [
+      3.02,
+      2.96,
+      3.0
+    ],
+    "avg_growth_trend": 2.99
+  },
+  {
+    "region": "Makkah",
+    "total_workers": 4057020,
+    "saudi_workers": 2131048,
+    "expat_workers": 1925972,
+    "saudization_rate": 52.53,
+    "growth_trend_q": [
+      2.92,
+      2.97,
+      3.02
+    ],
+    "avg_growth_trend": 2.97
+  },
+  {
+    "region": "Asir",
+    "total_workers": 4027617,
+    "saudi_workers": 2086278,
+    "expat_workers": 1941339,
+    "saudization_rate": 51.8,
+    "growth_trend_q": [
+      3.04,
+      3.01,
+      3.01
+    ],
+    "avg_growth_trend": 3.02
+  },
+  {
+    "region": "Hail",
+    "total_workers": 3840822,
+    "saudi_workers": 2013078,
+    "expat_workers": 1827744,
+    "saudization_rate": 52.41,
+    "growth_trend_q": [
+      2.95,
+      3.01,
+      2.99
+    ],
+    "avg_growth_trend": 2.98
+  },
+  {
+    "region": "Qassim",
+    "total_workers": 4092409,
+    "saudi_workers": 2166611,
+    "expat_workers": 1925798,
+    "saudization_rate": 52.94,
+    "growth_trend_q": [
+      3.02,
+      2.95,
+      3.01
+    ],
+    "avg_growth_trend": 2.99
+  },
+  {
+    "region": "Al-Jouf",
+    "total_workers": 3968151,
+    "saudi_workers": 2089007,
+    "expat_workers": 1879144,
+    "saudization_rate": 52.64,
+    "growth_trend_q": [
+      3.02,
+      3.02,
+      3.02
+    ],
+    "avg_growth_trend": 3.02
+  },
+  {
+    "region": "Najran",
+    "total_workers": 4087641,
+    "saudi_workers": 2133774,
+    "expat_workers": 1953867,
+    "saudization_rate": 52.2,
+    "growth_trend_q": [
+      3.01,
+      3.0,
+      3.0
+    ],
+    "avg_growth_trend": 3.0
+  },
+  {
+    "region": "Jazan",
+    "total_workers": 4164009,
+    "saudi_workers": 2184709,
+    "expat_workers": 1979300,
+    "saudization_rate": 52.47,
+    "growth_trend_q": [
+      2.99,
+      3.04,
+      3.05
+    ],
+    "avg_growth_trend": 3.03
+  },
+  {
+    "region": "Madinah",
+    "total_workers": 3642439,
+    "saudi_workers": 1933665,
+    "expat_workers": 1708774,
+    "saudization_rate": 53.09,
+    "growth_trend_q": [
+      3.04,
+      2.98,
+      2.99
+    ],
+    "avg_growth_trend": 3.0
+  },
+  {
+    "region": "Riyadh",
+    "total_workers": 4119053,
+    "saudi_workers": 2122414,
+    "expat_workers": 1996639,
+    "saudization_rate": 51.53,
+    "growth_trend_q": [
+      3.03,
+      3.01,
+      2.96
+    ],
+    "avg_growth_trend": 3.0
+  },
+  {
+    "region": "Northern Borders",
+    "total_workers": 3842462,
+    "saudi_workers": 1999402,
+    "expat_workers": 1843060,
+    "saudization_rate": 52.03,
+    "growth_trend_q": [
+      2.99,
+      3.03,
+      2.95
+    ],
+    "avg_growth_trend": 2.99
+  },
+  {
+    "region": "Al-Bahah",
+    "total_workers": 4163404,
+    "saudi_workers": 2152677,
+    "expat_workers": 2010727,
+    "saudization_rate": 51.7,
+    "growth_trend_q": [
+      2.93,
+      3.02,
+      3.01
+    ],
+    "avg_growth_trend": 2.99
+  }
+]

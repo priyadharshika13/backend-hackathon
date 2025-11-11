@@ -1,0 +1,26 @@
+{
+  "total_candidates": 1000,
+  "shortlisted": 385,
+  "rejected": 22,
+  "waitlisted": 593,
+  "avg_ai_score": 77.89,
+  "top_roles": [
+    "Operations Manager 6 9 4 9",
+    "Hotel Manager 1",
+    "Auditor 7 6 3 6",
+    "HVAC Technician 5 8",
+    "Architect 1 3 9 3 8",
+    "Auto Mechanic 9 9 9 2 3",
+    "Fashion Technologist 7 6 4 1",
+    "Lab Technician 5",
+    "Operations Manager 3 6",
+    "Auditor 7 6"
+  ],
+  "top_skills": [
+    "Python",
+    "Teamwork",
+    "Communication",
+    "Leadership"
+  ],
+  "saudi_participation": 69.01
+}

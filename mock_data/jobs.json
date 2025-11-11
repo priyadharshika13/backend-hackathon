@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1000,
+    "title": "HVAC Technician",
+    "skills": [
+      "AutoCAD",
+      "Teamwork",
+      "Leadership"
+    ],
+    "region": "Abha",
+    "salary": "8169 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1001,
+    "title": "Receptionist 1 1 2",
+    "skills": [
+      "Machine Learning",
+      "AutoCAD",
+      "Finance"
+    ],
+    "region": "Al Khobar",
+    "salary": "16888 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1002,
+    "title": "Accountant 7 3 3 3 2 2",
+    "skills": [
+      "Finance",
+      "Machine Learning",
+      "Leadership"
+    ],
+    "region": "Abha",
+    "salary": "13130 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1003,
+    "title": "Site Supervisor",
+    "skills": [
+      "Teamwork",
+      "Creativity",
+      "Leadership"
+    ],
+    "region": "Tabuk",
+    "salary": "8353 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1004,
+    "title": "Software Engineer 6 6",
+    "skills": [
+      "Python",
+      "Teamwork",
+      "Machine Learning"
+    ],
+    "region": "Yanbu",
+    "salary": "12355 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1005,
+    "title": "Truck Driver 6 5 8",
+    "skills": [
+      "Finance",
+      "Creativity",
+      "Teamwork"
+    ],
+    "region": "Al Khobar",
+    "salary": "11695 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1006,
+    "title": "Electrical Engineer 9 1 9",
+    "skills": [
+      "Finance",
+      "Python",
+      "Machine Learning"
+    ],
+    "region": "Jeddah",
+    "salary": "16690 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1007,
+    "title": "Professor 1 5",
+    "skills": [
+      "Python",
+      "Finance",
+      "Leadership"
+    ],
+    "region": "Mecca",
+    "salary": "14764 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1008,
+    "title": "Operations Manager 3 3 1",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Finance"
+    ],
+    "region": "Tabuk",
+    "salary": "10966 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1009,
+    "title": "Electrical Engineer 9 2 5 4",
+    "skills": [
+      "AutoCAD",
+      "Python",
+      "Teamwork"
+    ],
+    "region": "Abha",
+    "salary": "14112 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1010,
+    "title": "Operations Manager 6 3 8 4",
+    "skills": [
+      "AutoCAD",
+      "Machine Learning",
+      "Finance"
+    ],
+    "region": "Medina",
+    "salary": "10502 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1011,
+    "title": "Auditor 7 1 8 5",
+    "skills": [
+      "Python",
+      "Creativity",
+      "AutoCAD"
+    ],
+    "region": "Abha",
+    "salary": "14014 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1012,
+    "title": "Auto Mechanic 4",
+    "skills": [
+      "AutoCAD",
+      "Leadership",
+      "Python"
+    ],
+    "region": "Taif",
+    "salary": "12325 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1013,
+    "title": "Truck Driver 6 5 1",
+    "skills": [
+      "AutoCAD",
+      "Leadership",
+      "Teamwork"
+    ],
+    "region": "Riyadh",
+    "salary": "10772 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1014,
+    "title": "Security Analyst 3",
+    "skills": [
+      "Python",
+      "Leadership",
+      "Machine Learning"
+    ],
+    "region": "Riyadh",
+    "salary": "10324 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1015,
+    "title": "Software Engineer 6",
+    "skills": [
+      "Finance",
+      "Machine Learning",
+      "AutoCAD"
+    ],
+    "region": "Taif",
+    "salary": "17059 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1016,
+    "title": "Renewable Energy Specialist 8 2 6",
+    "skills": [
+      "Leadership",
+      "AutoCAD",
+      "Machine Learning"
+    ],
+    "region": "Yanbu",
+    "salary": "19433 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1017,
+    "title": "Accountant 1 7",
+    "skills": [
+      "Leadership",
+      "Finance",
+      "Python"
+    ],
+    "region": "Abha",
+    "salary": "19783 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1018,
+    "title": "Nurse 4",
+    "skills": [
+      "Python",
+      "Creativity",
+      "Leadership"
+    ],
+    "region": "Yanbu",
+    "salary": "9047 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1019,
+    "title": "Security Analyst 5 8 1",
+    "skills": [
+      "Teamwork",
+      "Creativity",
+      "Finance"
+    ],
+    "region": "Riyadh",
+    "salary": "16143 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1020,
+    "title": "Doctor 4",
+    "skills": [
+      "Teamwork",
+      "Machine Learning",
+      "AutoCAD"
+    ],
+    "region": "Abha",
+    "salary": "15734 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1021,
+    "title": "Security Analyst 5 8 1",
+    "skills": [
+      "Creativity",
+      "Python",
+      "AutoCAD"
+    ],
+    "region": "Dammam",
+    "salary": "16571 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1022,
+    "title": "Auto Mechanic 9 9 7 5 1",
+    "skills": [
+      "Python",
+      "AutoCAD",
+      "Finance"
+    ],
+    "region": "Mecca",
+    "salary": "17643 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1023,
+    "title": "Lab Technician 5 8",
+    "skills": [
+      "Machine Learning",
+      "Finance",
+      "Teamwork"
+    ],
+    "region": "Yanbu",
+    "salary": "9302 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1024,
+    "title": "Mechanical Engineer",
+    "skills": [
+      "Python",
+      "Finance",
+      "Teamwork"
+    ],
+    "region": "Medina",
+    "salary": "8111 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1025,
+    "title": "Lab Technician 3",
+    "skills": [
+      "Leadership",
+      "Creativity",
+      "Machine Learning"
+    ],
+    "region": "Taif",
+    "salary": "14414 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1026,
+    "title": "Professor 1 5",
+    "skills": [
+      "AutoCAD",
+      "Creativity",
+      "Machine Learning"
+    ],
+    "region": "Medina",
+    "salary": "8821 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1027,
+    "title": "Auditor 7 6 6",
+    "skills": [
+      "Teamwork",
+      "Machine Learning",
+      "Python"
+    ],
+    "region": "Medina",
+    "salary": "14382 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1028,
+    "title": "Civil Engineer 1 6 3 2 2",
+    "skills": [
+      "Python",
+      "Creativity",
+      "Leadership"
+    ],
+    "region": "Taif",
+    "salary": "14063 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1029,
+    "title": "Auditor 7 6 1",
+    "skills": [
+      "Finance",
+      "Python",
+      "Teamwork"
+    ],
+    "region": "Al Khobar",
+    "salary": "12354 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1030,
+    "title": "Training Coordinator 6 6 5",
+    "skills": [
+      "Creativity",
+      "Python",
+      "Machine Learning"
+    ],
+    "region": "Al Khobar",
+    "salary": "18009 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1031,
+    "title": "Auto Mechanic 9 9 3",
+    "skills": [
+      "Leadership",
+      "Teamwork",
+      "AutoCAD"
+    ],
+    "region": "Jeddah",
+    "salary": "8640 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1032,
+    "title": "Hotel Manager 4 5",
+    "skills": [
+      "Leadership",
+      "Machine Learning",
+      "AutoCAD"
+    ],
+    "region": "Abha",
+    "salary": "16609 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1033,
+    "title": "Software Engineer 6 7 2 6",
+    "skills": [
+      "Leadership",
+      "Machine Learning",
+      "Python"
+    ],
+    "region": "Dammam",
+    "salary": "14961 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1034,
+    "title": "Receptionist 1 1",
+    "skills": [
+      "Leadership",
+      "AutoCAD",
+      "Teamwork"
+    ],
+    "region": "Tabuk",
+    "salary": "13466 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1035,
+    "title": "Surgeon 7 5",
+    "skills": [
+      "Teamwork",
+      "Leadership",
+      "Finance"
+    ],
+    "region": "Abha",
+    "salary": "8759 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1036,
+    "title": "Civil Engineer 1",
+    "skills": [
+      "AutoCAD",
+      "Machine Learning",
+      "Teamwork"
+    ],
+    "region": "Tabuk",
+    "salary": "14273 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1037,
+    "title": "Truck Driver 6 5 8",
+    "skills": [
+      "Leadership",
+      "Python",
+      "Creativity"
+    ],
+    "region": "Mecca",
+    "salary": "12052 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1038,
+    "title": "Lab Technician 5 8",
+    "skills": [
+      "AutoCAD",
+      "Python",
+      "Teamwork"
+    ],
+    "region": "Riyadh",
+    "salary": "18718 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1039,
+    "title": "Operations Manager 5 4",
+    "skills": [
+      "Machine Learning",
+      "Teamwork",
+      "AutoCAD"
+    ],
+    "region": "Dammam",
+    "salary": "19466 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1040,
+    "title": "Chef 7",
+    "skills": [
+      "Python",
+      "AutoCAD",
+      "Machine Learning"
+    ],
+    "region": "Abha",
+    "salary": "16643 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1041,
+    "title": "Nurse 8 4 8 2",
+    "skills": [
+      "Teamwork",
+      "Python",
+      "Finance"
+    ],
+    "region": "Abha",
+    "salary": "10380 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1042,
+    "title": "Renewable Energy Specialist 5 1",
+    "skills": [
+      "Leadership",
+      "Machine Learning",
+      "Creativity"
+    ],
+    "region": "Riyadh",
+    "salary": "19219 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1043,
+    "title": "Auto Mechanic 9 9 7 5 1",
+    "skills": [
+      "Python",
+      "Leadership",
+      "Creativity"
+    ],
+    "region": "Jeddah",
+    "salary": "18117 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1044,
+    "title": "Hotel Manager 1",
+    "skills": [
+      "Teamwork",
+      "Leadership",
+      "AutoCAD"
+    ],
+    "region": "Taif",
+    "salary": "8178 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1045,
+    "title": "Mechanical Engineer 1 5",
+    "skills": [
+      "Python",
+      "Creativity",
+      "Machine Learning"
+    ],
+    "region": "Yanbu",
+    "salary": "8868 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1046,
+    "title": "Truck Driver 6 5 7 6",
+    "skills": [
+      "Creativity",
+      "Python",
+      "Teamwork"
+    ],
+    "region": "Tabuk",
+    "salary": "19466 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1047,
+    "title": "Hotel Manager 1 1",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Finance"
+    ],
+    "region": "Mecca",
+    "salary": "17884 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1048,
+    "title": "Renewable Energy Specialist 8 2 5 1",
+    "skills": [
+      "Leadership",
+      "Finance",
+      "Python"
+    ],
+    "region": "Mecca",
+    "salary": "10624 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  },
+  {
+    "id": 1049,
+    "title": "Operations Manager 5",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Teamwork"
+    ],
+    "region": "Tabuk",
+    "salary": "8732 SAR",
+    "status": "Open",
+    "created_at": "2025-11-02T01:21:29.236018"
+  }
+]

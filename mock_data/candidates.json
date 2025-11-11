@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Jeffrey Nelson",
+    "role": "AI Engineer",
+    "match_score": 82,
+    "interview_score": 85,
+    "status": "Approved"
+  },
+  {
+    "name": "Elizabeth Ortiz",
+    "role": "Civil Engineer",
+    "match_score": 73,
+    "interview_score": 88,
+    "status": "Rejected"
+  },
+  {
+    "name": "Rodney Clay",
+    "role": "Teacher",
+    "match_score": 86,
+    "interview_score": 90,
+    "status": "Rejected"
+  },
+  {
+    "name": "Michael Miles",
+    "role": "Teacher",
+    "match_score": 79,
+    "interview_score": 82,
+    "status": "Approved"
+  },
+  {
+    "name": "Stacy Le",
+    "role": "HR Specialist",
+    "match_score": 80,
+    "interview_score": 84,
+    "status": "Pending"
+  },
+  {
+    "name": "Tracey Johnson",
+    "role": "Civil Engineer",
+    "match_score": 91,
+    "interview_score": 75,
+    "status": "Rejected"
+  },
+  {
+    "name": "Dennis Tate",
+    "role": "HR Specialist",
+    "match_score": 94,
+    "interview_score": 80,
+    "status": "Rejected"
+  },
+  {
+    "name": "Bonnie Morris",
+    "role": "HR Specialist",
+    "match_score": 89,
+    "interview_score": 91,
+    "status": "Rejected"
+  },
+  {
+    "name": "Kyle Huffman",
+    "role": "HR Specialist",
+    "match_score": 78,
+    "interview_score": 89,
+    "status": "Rejected"
+  },
+  {
+    "name": "Amanda Shannon",
+    "role": "AI Engineer",
+    "match_score": 77,
+    "interview_score": 95,
+    "status": "Rejected"
+  }
+]

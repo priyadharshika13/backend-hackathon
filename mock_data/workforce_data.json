@@ -1,0 +1,5002 @@
+[
+  {
+    "company": "Parker LLC",
+    "region": "Taif",
+    "total_workers": 1015,
+    "saudi_workers": 274,
+    "expat_workers": 741,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 5.21
+  },
+  {
+    "company": "Espinoza-Krause",
+    "region": "Taif",
+    "total_workers": 1612,
+    "saudi_workers": 1370,
+    "expat_workers": 242,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 1.27
+  },
+  {
+    "company": "Moore Group",
+    "region": "Dammam",
+    "total_workers": 1237,
+    "saudi_workers": 1039,
+    "expat_workers": 198,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 4.44
+  },
+  {
+    "company": "Carter-Hartman",
+    "region": "Al Khobar",
+    "total_workers": 133,
+    "saudi_workers": 115,
+    "expat_workers": 18,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 3.26
+  },
+  {
+    "company": "Leon Inc",
+    "region": "Abha",
+    "total_workers": 1716,
+    "saudi_workers": 1098,
+    "expat_workers": 618,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 0.89
+  },
+  {
+    "company": "Miller-Woods",
+    "region": "Jeddah",
+    "total_workers": 1650,
+    "saudi_workers": 1402,
+    "expat_workers": 248,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 4.31
+  },
+  {
+    "company": "Miller-Pennington",
+    "region": "Riyadh",
+    "total_workers": 1838,
+    "saudi_workers": 882,
+    "expat_workers": 956,
+    "saudization_%": 48,
+    "category": "Yellow",
+    "growth": 3.93
+  },
+  {
+    "company": "White, Pittman and Williams",
+    "region": "Yanbu",
+    "total_workers": 1492,
+    "saudi_workers": 626,
+    "expat_workers": 866,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 0.83
+  },
+  {
+    "company": "Casey-Davidson",
+    "region": "Yanbu",
+    "total_workers": 458,
+    "saudi_workers": 407,
+    "expat_workers": 51,
+    "saudization_%": 89,
+    "category": "Platinum",
+    "growth": 1.43
+  },
+  {
+    "company": "Alvarez Group",
+    "region": "Dammam",
+    "total_workers": 1335,
+    "saudi_workers": 1108,
+    "expat_workers": 227,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 5.19
+  },
+  {
+    "company": "Rodgers and Sons",
+    "region": "Abha",
+    "total_workers": 334,
+    "saudi_workers": 303,
+    "expat_workers": 31,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 3.6
+  },
+  {
+    "company": "Fletcher PLC",
+    "region": "Taif",
+    "total_workers": 424,
+    "saudi_workers": 216,
+    "expat_workers": 208,
+    "saudization_%": 51,
+    "category": "Green",
+    "growth": 3.32
+  },
+  {
+    "company": "Winters-Martin",
+    "region": "Al Khobar",
+    "total_workers": 1805,
+    "saudi_workers": 703,
+    "expat_workers": 1102,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 0.8
+  },
+  {
+    "company": "Oliver-Clark",
+    "region": "Yanbu",
+    "total_workers": 579,
+    "saudi_workers": 289,
+    "expat_workers": 290,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 5.64
+  },
+  {
+    "company": "Martinez Group",
+    "region": "Yanbu",
+    "total_workers": 295,
+    "saudi_workers": 88,
+    "expat_workers": 207,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 1.28
+  },
+  {
+    "company": "Lamb, Smith and Rivas",
+    "region": "Al Khobar",
+    "total_workers": 564,
+    "saudi_workers": 214,
+    "expat_workers": 350,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 3.67
+  },
+  {
+    "company": "Miller PLC",
+    "region": "Taif",
+    "total_workers": 374,
+    "saudi_workers": 130,
+    "expat_workers": 244,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 0.58
+  },
+  {
+    "company": "Bryant Group",
+    "region": "Riyadh",
+    "total_workers": 180,
+    "saudi_workers": 115,
+    "expat_workers": 65,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.25
+  },
+  {
+    "company": "Bell, Martinez and Warner",
+    "region": "Taif",
+    "total_workers": 970,
+    "saudi_workers": 727,
+    "expat_workers": 243,
+    "saudization_%": 75,
+    "category": "Platinum",
+    "growth": 1.31
+  },
+  {
+    "company": "Washington, Weaver and Moss",
+    "region": "Medina",
+    "total_workers": 1654,
+    "saudi_workers": 1405,
+    "expat_workers": 249,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 1.42
+  },
+  {
+    "company": "Nash, Rodriguez and Thomas",
+    "region": "Medina",
+    "total_workers": 1529,
+    "saudi_workers": 581,
+    "expat_workers": 948,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 4.95
+  },
+  {
+    "company": "Walters Group",
+    "region": "Medina",
+    "total_workers": 547,
+    "saudi_workers": 399,
+    "expat_workers": 148,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 1.67
+  },
+  {
+    "company": "Fowler-Hernandez",
+    "region": "Mecca",
+    "total_workers": 892,
+    "saudi_workers": 499,
+    "expat_workers": 393,
+    "saudization_%": 56,
+    "category": "Green",
+    "growth": 0.52
+  },
+  {
+    "company": "Archer, Stanley and Davenport",
+    "region": "Tabuk",
+    "total_workers": 1327,
+    "saudi_workers": 398,
+    "expat_workers": 929,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 2.22
+  },
+  {
+    "company": "Rhodes-Richmond",
+    "region": "Tabuk",
+    "total_workers": 1011,
+    "saudi_workers": 454,
+    "expat_workers": 557,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 4.78
+  },
+  {
+    "company": "Beck-Perez",
+    "region": "Tabuk",
+    "total_workers": 1793,
+    "saudi_workers": 663,
+    "expat_workers": 1130,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 2.73
+  },
+  {
+    "company": "Webster and Sons",
+    "region": "Jeddah",
+    "total_workers": 971,
+    "saudi_workers": 359,
+    "expat_workers": 612,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 1.47
+  },
+  {
+    "company": "Anderson, Burke and White",
+    "region": "Abha",
+    "total_workers": 881,
+    "saudi_workers": 607,
+    "expat_workers": 274,
+    "saudization_%": 69,
+    "category": "Green",
+    "growth": 4.08
+  },
+  {
+    "company": "Morgan, Hernandez and Morgan",
+    "region": "Riyadh",
+    "total_workers": 1705,
+    "saudi_workers": 1364,
+    "expat_workers": 341,
+    "saudization_%": 80,
+    "category": "Platinum",
+    "growth": 2.68
+  },
+  {
+    "company": "Vargas, Schmitt and Martin",
+    "region": "Dammam",
+    "total_workers": 1013,
+    "saudi_workers": 232,
+    "expat_workers": 781,
+    "saudization_%": 23,
+    "category": "Red",
+    "growth": 5.48
+  },
+  {
+    "company": "Flores, Hall and Russell",
+    "region": "Taif",
+    "total_workers": 62,
+    "saudi_workers": 48,
+    "expat_workers": 14,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 5.63
+  },
+  {
+    "company": "Johnson, Hernandez and Baker",
+    "region": "Mecca",
+    "total_workers": 1451,
+    "saudi_workers": 899,
+    "expat_workers": 552,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 1.3
+  },
+  {
+    "company": "Roberts-Johnson",
+    "region": "Riyadh",
+    "total_workers": 103,
+    "saudi_workers": 79,
+    "expat_workers": 24,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 1.98
+  },
+  {
+    "company": "Little Group",
+    "region": "Tabuk",
+    "total_workers": 301,
+    "saudi_workers": 258,
+    "expat_workers": 43,
+    "saudization_%": 86,
+    "category": "Platinum",
+    "growth": 5.53
+  },
+  {
+    "company": "Garcia LLC",
+    "region": "Yanbu",
+    "total_workers": 1434,
+    "saudi_workers": 458,
+    "expat_workers": 976,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 5.8
+  },
+  {
+    "company": "Clark Inc",
+    "region": "Abha",
+    "total_workers": 1507,
+    "saudi_workers": 271,
+    "expat_workers": 1236,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 3.01
+  },
+  {
+    "company": "Carter-Harris",
+    "region": "Yanbu",
+    "total_workers": 1521,
+    "saudi_workers": 943,
+    "expat_workers": 578,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 3.11
+  },
+  {
+    "company": "Swanson, Wagner and Johnson",
+    "region": "Mecca",
+    "total_workers": 1655,
+    "saudi_workers": 413,
+    "expat_workers": 1242,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 1.06
+  },
+  {
+    "company": "Robinson, Ortiz and Morris",
+    "region": "Al Khobar",
+    "total_workers": 200,
+    "saudi_workers": 72,
+    "expat_workers": 128,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 5.08
+  },
+  {
+    "company": "Foster PLC",
+    "region": "Riyadh",
+    "total_workers": 1134,
+    "saudi_workers": 453,
+    "expat_workers": 681,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 0.67
+  },
+  {
+    "company": "Campos-Davis",
+    "region": "Riyadh",
+    "total_workers": 1742,
+    "saudi_workers": 313,
+    "expat_workers": 1429,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 0.66
+  },
+  {
+    "company": "Kennedy Group",
+    "region": "Abha",
+    "total_workers": 404,
+    "saudi_workers": 286,
+    "expat_workers": 118,
+    "saudization_%": 71,
+    "category": "Platinum",
+    "growth": 1.82
+  },
+  {
+    "company": "Newton, Cruz and Collins",
+    "region": "Al Khobar",
+    "total_workers": 1677,
+    "saudi_workers": 1593,
+    "expat_workers": 84,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 1.55
+  },
+  {
+    "company": "Smith LLC",
+    "region": "Dammam",
+    "total_workers": 1448,
+    "saudi_workers": 1361,
+    "expat_workers": 87,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 2.53
+  },
+  {
+    "company": "Farrell, Ferguson and Morales",
+    "region": "Mecca",
+    "total_workers": 1384,
+    "saudi_workers": 235,
+    "expat_workers": 1149,
+    "saudization_%": 17,
+    "category": "Red",
+    "growth": 2.93
+  },
+  {
+    "company": "Wolf, Martinez and Nelson",
+    "region": "Al Khobar",
+    "total_workers": 1754,
+    "saudi_workers": 912,
+    "expat_workers": 842,
+    "saudization_%": 52,
+    "category": "Green",
+    "growth": 5.28
+  },
+  {
+    "company": "Kelly, King and Rose",
+    "region": "Riyadh",
+    "total_workers": 1436,
+    "saudi_workers": 1077,
+    "expat_workers": 359,
+    "saudization_%": 75,
+    "category": "Platinum",
+    "growth": 0.51
+  },
+  {
+    "company": "Miller, Pena and Kennedy",
+    "region": "Jeddah",
+    "total_workers": 1064,
+    "saudi_workers": 883,
+    "expat_workers": 181,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 5.35
+  },
+  {
+    "company": "Lee-Hall",
+    "region": "Yanbu",
+    "total_workers": 772,
+    "saudi_workers": 548,
+    "expat_workers": 224,
+    "saudization_%": 71,
+    "category": "Platinum",
+    "growth": 2.06
+  },
+  {
+    "company": "Collins, Vaughn and Villarreal",
+    "region": "Yanbu",
+    "total_workers": 279,
+    "saudi_workers": 259,
+    "expat_workers": 20,
+    "saudization_%": 93,
+    "category": "Platinum",
+    "growth": 3.51
+  },
+  {
+    "company": "Perry-Webb",
+    "region": "Yanbu",
+    "total_workers": 833,
+    "saudi_workers": 183,
+    "expat_workers": 650,
+    "saudization_%": 22,
+    "category": "Red",
+    "growth": 3.91
+  },
+  {
+    "company": "Myers-Thomas",
+    "region": "Al Khobar",
+    "total_workers": 1704,
+    "saudi_workers": 477,
+    "expat_workers": 1227,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 4.99
+  },
+  {
+    "company": "Munoz-Schroeder",
+    "region": "Medina",
+    "total_workers": 676,
+    "saudi_workers": 486,
+    "expat_workers": 190,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 5.72
+  },
+  {
+    "company": "Villa, Cardenas and Reyes",
+    "region": "Jeddah",
+    "total_workers": 176,
+    "saudi_workers": 161,
+    "expat_workers": 15,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 2.74
+  },
+  {
+    "company": "Li, Riley and Jackson",
+    "region": "Al Khobar",
+    "total_workers": 1954,
+    "saudi_workers": 1699,
+    "expat_workers": 255,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 4.71
+  },
+  {
+    "company": "Wilkins, Weaver and White",
+    "region": "Al Khobar",
+    "total_workers": 560,
+    "saudi_workers": 95,
+    "expat_workers": 465,
+    "saudization_%": 17,
+    "category": "Red",
+    "growth": 2.86
+  },
+  {
+    "company": "Duncan, Webb and Smith",
+    "region": "Riyadh",
+    "total_workers": 857,
+    "saudi_workers": 437,
+    "expat_workers": 420,
+    "saudization_%": 51,
+    "category": "Green",
+    "growth": 1.24
+  },
+  {
+    "company": "Johnson, Donovan and Wilson",
+    "region": "Riyadh",
+    "total_workers": 641,
+    "saudi_workers": 352,
+    "expat_workers": 289,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 4.07
+  },
+  {
+    "company": "Collier LLC",
+    "region": "Mecca",
+    "total_workers": 617,
+    "saudi_workers": 351,
+    "expat_workers": 266,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 5.21
+  },
+  {
+    "company": "Payne-Ballard",
+    "region": "Al Khobar",
+    "total_workers": 479,
+    "saudi_workers": 71,
+    "expat_workers": 408,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 3.93
+  },
+  {
+    "company": "Salazar, Mills and Gonzalez",
+    "region": "Medina",
+    "total_workers": 1207,
+    "saudi_workers": 712,
+    "expat_workers": 495,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 2.2
+  },
+  {
+    "company": "Hutchinson-Dixon",
+    "region": "Mecca",
+    "total_workers": 1887,
+    "saudi_workers": 1302,
+    "expat_workers": 585,
+    "saudization_%": 69,
+    "category": "Green",
+    "growth": 4.1
+  },
+  {
+    "company": "Delgado Inc",
+    "region": "Al Khobar",
+    "total_workers": 1251,
+    "saudi_workers": 1038,
+    "expat_workers": 213,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 0.58
+  },
+  {
+    "company": "Brooks-Elliott",
+    "region": "Yanbu",
+    "total_workers": 473,
+    "saudi_workers": 151,
+    "expat_workers": 322,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 1.72
+  },
+  {
+    "company": "Quinn, Lopez and Bender",
+    "region": "Medina",
+    "total_workers": 707,
+    "saudi_workers": 544,
+    "expat_workers": 163,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 5.15
+  },
+  {
+    "company": "Mcmillan, Gregory and Holmes",
+    "region": "Riyadh",
+    "total_workers": 430,
+    "saudi_workers": 184,
+    "expat_workers": 246,
+    "saudization_%": 43,
+    "category": "Yellow",
+    "growth": 2.17
+  },
+  {
+    "company": "Chase, Smith and Calderon",
+    "region": "Yanbu",
+    "total_workers": 966,
+    "saudi_workers": 589,
+    "expat_workers": 377,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 1.95
+  },
+  {
+    "company": "Welch-Davis",
+    "region": "Medina",
+    "total_workers": 1509,
+    "saudi_workers": 226,
+    "expat_workers": 1283,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 3.7
+  },
+  {
+    "company": "Mcclain Ltd",
+    "region": "Jeddah",
+    "total_workers": 312,
+    "saudi_workers": 240,
+    "expat_workers": 72,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 2.24
+  },
+  {
+    "company": "Webster, Ball and Thompson",
+    "region": "Taif",
+    "total_workers": 1322,
+    "saudi_workers": 356,
+    "expat_workers": 966,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 1.16
+  },
+  {
+    "company": "Shelton Inc",
+    "region": "Riyadh",
+    "total_workers": 1402,
+    "saudi_workers": 448,
+    "expat_workers": 954,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 4.38
+  },
+  {
+    "company": "Walters Ltd",
+    "region": "Taif",
+    "total_workers": 1798,
+    "saudi_workers": 737,
+    "expat_workers": 1061,
+    "saudization_%": 41,
+    "category": "Yellow",
+    "growth": 5.06
+  },
+  {
+    "company": "Martinez, Arellano and French",
+    "region": "Abha",
+    "total_workers": 1814,
+    "saudi_workers": 1523,
+    "expat_workers": 291,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 0.84
+  },
+  {
+    "company": "Blake, Chase and Mendoza",
+    "region": "Riyadh",
+    "total_workers": 981,
+    "saudi_workers": 833,
+    "expat_workers": 148,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 1.23
+  },
+  {
+    "company": "Buchanan LLC",
+    "region": "Dammam",
+    "total_workers": 139,
+    "saudi_workers": 43,
+    "expat_workers": 96,
+    "saudization_%": 31,
+    "category": "Yellow",
+    "growth": 2.84
+  },
+  {
+    "company": "Finley-Schneider",
+    "region": "Taif",
+    "total_workers": 96,
+    "saudi_workers": 82,
+    "expat_workers": 14,
+    "saudization_%": 86,
+    "category": "Platinum",
+    "growth": 3.64
+  },
+  {
+    "company": "Gilmore Ltd",
+    "region": "Abha",
+    "total_workers": 520,
+    "saudi_workers": 322,
+    "expat_workers": 198,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 0.78
+  },
+  {
+    "company": "Brooks Ltd",
+    "region": "Abha",
+    "total_workers": 731,
+    "saudi_workers": 241,
+    "expat_workers": 490,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 1.29
+  },
+  {
+    "company": "Mason LLC",
+    "region": "Medina",
+    "total_workers": 1635,
+    "saudi_workers": 1209,
+    "expat_workers": 426,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 4.47
+  },
+  {
+    "company": "Spence, Collins and White",
+    "region": "Yanbu",
+    "total_workers": 130,
+    "saudi_workers": 59,
+    "expat_workers": 71,
+    "saudization_%": 46,
+    "category": "Yellow",
+    "growth": 3.08
+  },
+  {
+    "company": "Cabrera, Larson and Rollins",
+    "region": "Dammam",
+    "total_workers": 250,
+    "saudi_workers": 165,
+    "expat_workers": 85,
+    "saudization_%": 66,
+    "category": "Green",
+    "growth": 0.72
+  },
+  {
+    "company": "Lewis, Hudson and Green",
+    "region": "Jeddah",
+    "total_workers": 1165,
+    "saudi_workers": 780,
+    "expat_workers": 385,
+    "saudization_%": 67,
+    "category": "Green",
+    "growth": 5.15
+  },
+  {
+    "company": "Ellison PLC",
+    "region": "Yanbu",
+    "total_workers": 1028,
+    "saudi_workers": 215,
+    "expat_workers": 813,
+    "saudization_%": 21,
+    "category": "Red",
+    "growth": 3.61
+  },
+  {
+    "company": "Mason-Molina",
+    "region": "Abha",
+    "total_workers": 225,
+    "saudi_workers": 182,
+    "expat_workers": 43,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 0.59
+  },
+  {
+    "company": "Nash LLC",
+    "region": "Yanbu",
+    "total_workers": 1476,
+    "saudi_workers": 236,
+    "expat_workers": 1240,
+    "saudization_%": 16,
+    "category": "Red",
+    "growth": 1.0
+  },
+  {
+    "company": "Jordan Inc",
+    "region": "Tabuk",
+    "total_workers": 1398,
+    "saudi_workers": 852,
+    "expat_workers": 546,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 3.04
+  },
+  {
+    "company": "Roberts Inc",
+    "region": "Tabuk",
+    "total_workers": 1815,
+    "saudi_workers": 308,
+    "expat_workers": 1507,
+    "saudization_%": 17,
+    "category": "Red",
+    "growth": 4.84
+  },
+  {
+    "company": "James-Anderson",
+    "region": "Al Khobar",
+    "total_workers": 146,
+    "saudi_workers": 40,
+    "expat_workers": 106,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 2.5
+  },
+  {
+    "company": "Gordon, Hutchinson and Reeves",
+    "region": "Jeddah",
+    "total_workers": 1985,
+    "saudi_workers": 1627,
+    "expat_workers": 358,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 5.16
+  },
+  {
+    "company": "Kline LLC",
+    "region": "Dammam",
+    "total_workers": 1695,
+    "saudi_workers": 322,
+    "expat_workers": 1373,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 3.26
+  },
+  {
+    "company": "Rogers LLC",
+    "region": "Tabuk",
+    "total_workers": 436,
+    "saudi_workers": 300,
+    "expat_workers": 136,
+    "saudization_%": 69,
+    "category": "Green",
+    "growth": 3.11
+  },
+  {
+    "company": "Brown-Rodriguez",
+    "region": "Dammam",
+    "total_workers": 470,
+    "saudi_workers": 211,
+    "expat_workers": 259,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 3.32
+  },
+  {
+    "company": "Williams PLC",
+    "region": "Yanbu",
+    "total_workers": 1225,
+    "saudi_workers": 245,
+    "expat_workers": 980,
+    "saudization_%": 20,
+    "category": "Red",
+    "growth": 0.5
+  },
+  {
+    "company": "Cole Group",
+    "region": "Dammam",
+    "total_workers": 1021,
+    "saudi_workers": 275,
+    "expat_workers": 746,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 5.04
+  },
+  {
+    "company": "Nguyen PLC",
+    "region": "Abha",
+    "total_workers": 1347,
+    "saudi_workers": 1212,
+    "expat_workers": 135,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 5.41
+  },
+  {
+    "company": "Khan Group",
+    "region": "Dammam",
+    "total_workers": 1344,
+    "saudi_workers": 819,
+    "expat_workers": 525,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 1.38
+  },
+  {
+    "company": "Hoffman-Goodwin",
+    "region": "Abha",
+    "total_workers": 458,
+    "saudi_workers": 270,
+    "expat_workers": 188,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 2.37
+  },
+  {
+    "company": "Mendez Inc",
+    "region": "Jeddah",
+    "total_workers": 870,
+    "saudi_workers": 556,
+    "expat_workers": 314,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 2.56
+  },
+  {
+    "company": "Barnes, Simmons and Roach",
+    "region": "Taif",
+    "total_workers": 1592,
+    "saudi_workers": 413,
+    "expat_workers": 1179,
+    "saudization_%": 26,
+    "category": "Red",
+    "growth": 5.14
+  },
+  {
+    "company": "Fisher-Yates",
+    "region": "Al Khobar",
+    "total_workers": 822,
+    "saudi_workers": 411,
+    "expat_workers": 411,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 2.55
+  },
+  {
+    "company": "Galvan-Griffith",
+    "region": "Abha",
+    "total_workers": 1292,
+    "saudi_workers": 1098,
+    "expat_workers": 194,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 4.84
+  },
+  {
+    "company": "Forbes-Cain",
+    "region": "Jeddah",
+    "total_workers": 1203,
+    "saudi_workers": 926,
+    "expat_workers": 277,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 0.53
+  },
+  {
+    "company": "Perez-Davis",
+    "region": "Taif",
+    "total_workers": 667,
+    "saudi_workers": 613,
+    "expat_workers": 54,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 2.99
+  },
+  {
+    "company": "Zhang Group",
+    "region": "Tabuk",
+    "total_workers": 1849,
+    "saudi_workers": 1682,
+    "expat_workers": 167,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 3.58
+  },
+  {
+    "company": "White Group",
+    "region": "Medina",
+    "total_workers": 1243,
+    "saudi_workers": 919,
+    "expat_workers": 324,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 1.55
+  },
+  {
+    "company": "Wells, Braun and Johnson",
+    "region": "Mecca",
+    "total_workers": 1867,
+    "saudi_workers": 578,
+    "expat_workers": 1289,
+    "saudization_%": 31,
+    "category": "Yellow",
+    "growth": 4.69
+  },
+  {
+    "company": "Ingram, Morris and Johnson",
+    "region": "Yanbu",
+    "total_workers": 943,
+    "saudi_workers": 518,
+    "expat_workers": 425,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 0.79
+  },
+  {
+    "company": "Ray Inc",
+    "region": "Tabuk",
+    "total_workers": 1850,
+    "saudi_workers": 795,
+    "expat_workers": 1055,
+    "saudization_%": 43,
+    "category": "Yellow",
+    "growth": 0.91
+  },
+  {
+    "company": "Rice Inc",
+    "region": "Yanbu",
+    "total_workers": 1976,
+    "saudi_workers": 553,
+    "expat_workers": 1423,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 2.4
+  },
+  {
+    "company": "Smith-Sullivan",
+    "region": "Al Khobar",
+    "total_workers": 1119,
+    "saudi_workers": 425,
+    "expat_workers": 694,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 1.31
+  },
+  {
+    "company": "Reed Inc",
+    "region": "Al Khobar",
+    "total_workers": 1287,
+    "saudi_workers": 1132,
+    "expat_workers": 155,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 5.69
+  },
+  {
+    "company": "Anderson, Hicks and Taylor",
+    "region": "Mecca",
+    "total_workers": 1299,
+    "saudi_workers": 545,
+    "expat_workers": 754,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 0.94
+  },
+  {
+    "company": "Williams-Hanson",
+    "region": "Jeddah",
+    "total_workers": 508,
+    "saudi_workers": 142,
+    "expat_workers": 366,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 2.01
+  },
+  {
+    "company": "Mills, Stanley and Martin",
+    "region": "Yanbu",
+    "total_workers": 621,
+    "saudi_workers": 260,
+    "expat_workers": 361,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 0.89
+  },
+  {
+    "company": "Sherman, Powell and Mcknight",
+    "region": "Jeddah",
+    "total_workers": 675,
+    "saudi_workers": 283,
+    "expat_workers": 392,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 2.04
+  },
+  {
+    "company": "Jones and Sons",
+    "region": "Jeddah",
+    "total_workers": 852,
+    "saudi_workers": 332,
+    "expat_workers": 520,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 2.59
+  },
+  {
+    "company": "Mcmahon Ltd",
+    "region": "Yanbu",
+    "total_workers": 836,
+    "saudi_workers": 685,
+    "expat_workers": 151,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 2.87
+  },
+  {
+    "company": "Holmes-Walker",
+    "region": "Abha",
+    "total_workers": 1130,
+    "saudi_workers": 632,
+    "expat_workers": 498,
+    "saudization_%": 56,
+    "category": "Green",
+    "growth": 1.01
+  },
+  {
+    "company": "Bauer-Hicks",
+    "region": "Abha",
+    "total_workers": 69,
+    "saudi_workers": 29,
+    "expat_workers": 40,
+    "saudization_%": 43,
+    "category": "Yellow",
+    "growth": 5.79
+  },
+  {
+    "company": "Acosta Ltd",
+    "region": "Medina",
+    "total_workers": 534,
+    "saudi_workers": 475,
+    "expat_workers": 59,
+    "saudization_%": 89,
+    "category": "Platinum",
+    "growth": 1.88
+  },
+  {
+    "company": "Smith-Long",
+    "region": "Jeddah",
+    "total_workers": 353,
+    "saudi_workers": 317,
+    "expat_workers": 36,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 4.9
+  },
+  {
+    "company": "Lee LLC",
+    "region": "Taif",
+    "total_workers": 914,
+    "saudi_workers": 630,
+    "expat_workers": 284,
+    "saudization_%": 69,
+    "category": "Green",
+    "growth": 4.41
+  },
+  {
+    "company": "Booker-Cox",
+    "region": "Tabuk",
+    "total_workers": 1530,
+    "saudi_workers": 428,
+    "expat_workers": 1102,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 0.66
+  },
+  {
+    "company": "Colon, Krause and Flynn",
+    "region": "Riyadh",
+    "total_workers": 1432,
+    "saudi_workers": 701,
+    "expat_workers": 731,
+    "saudization_%": 49,
+    "category": "Yellow",
+    "growth": 1.68
+  },
+  {
+    "company": "Martinez Ltd",
+    "region": "Taif",
+    "total_workers": 455,
+    "saudi_workers": 368,
+    "expat_workers": 87,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 4.08
+  },
+  {
+    "company": "Kelly LLC",
+    "region": "Mecca",
+    "total_workers": 1240,
+    "saudi_workers": 793,
+    "expat_workers": 447,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.14
+  },
+  {
+    "company": "Meyers and Sons",
+    "region": "Dammam",
+    "total_workers": 329,
+    "saudi_workers": 65,
+    "expat_workers": 264,
+    "saudization_%": 20,
+    "category": "Red",
+    "growth": 1.05
+  },
+  {
+    "company": "Santos-Phillips",
+    "region": "Taif",
+    "total_workers": 736,
+    "saudi_workers": 596,
+    "expat_workers": 140,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 2.2
+  },
+  {
+    "company": "Horton Ltd",
+    "region": "Jeddah",
+    "total_workers": 1536,
+    "saudi_workers": 1274,
+    "expat_workers": 262,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 0.79
+  },
+  {
+    "company": "Robertson-Perez",
+    "region": "Yanbu",
+    "total_workers": 1259,
+    "saudi_workers": 478,
+    "expat_workers": 781,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 1.66
+  },
+  {
+    "company": "Carlson, Garcia and Anderson",
+    "region": "Jeddah",
+    "total_workers": 800,
+    "saudi_workers": 304,
+    "expat_workers": 496,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 4.67
+  },
+  {
+    "company": "Burch-Stephens",
+    "region": "Abha",
+    "total_workers": 1398,
+    "saudi_workers": 1104,
+    "expat_workers": 294,
+    "saudization_%": 79,
+    "category": "Platinum",
+    "growth": 2.09
+  },
+  {
+    "company": "Nunez, Moreno and Baird",
+    "region": "Taif",
+    "total_workers": 399,
+    "saudi_workers": 379,
+    "expat_workers": 20,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 1.31
+  },
+  {
+    "company": "Young PLC",
+    "region": "Tabuk",
+    "total_workers": 1048,
+    "saudi_workers": 869,
+    "expat_workers": 179,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 4.63
+  },
+  {
+    "company": "Morales-Ayala",
+    "region": "Tabuk",
+    "total_workers": 1106,
+    "saudi_workers": 774,
+    "expat_workers": 332,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 4.62
+  },
+  {
+    "company": "Garrett Inc",
+    "region": "Medina",
+    "total_workers": 1858,
+    "saudi_workers": 891,
+    "expat_workers": 967,
+    "saudization_%": 48,
+    "category": "Yellow",
+    "growth": 1.21
+  },
+  {
+    "company": "Christensen-Hughes",
+    "region": "Yanbu",
+    "total_workers": 505,
+    "saudi_workers": 90,
+    "expat_workers": 415,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 0.81
+  },
+  {
+    "company": "Nichols and Sons",
+    "region": "Yanbu",
+    "total_workers": 1782,
+    "saudi_workers": 1140,
+    "expat_workers": 642,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.35
+  },
+  {
+    "company": "Randolph Group",
+    "region": "Taif",
+    "total_workers": 1956,
+    "saudi_workers": 665,
+    "expat_workers": 1291,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 4.38
+  },
+  {
+    "company": "Wagner PLC",
+    "region": "Dammam",
+    "total_workers": 1600,
+    "saudi_workers": 1024,
+    "expat_workers": 576,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 3.06
+  },
+  {
+    "company": "Foley PLC",
+    "region": "Taif",
+    "total_workers": 1121,
+    "saudi_workers": 706,
+    "expat_workers": 415,
+    "saudization_%": 63,
+    "category": "Green",
+    "growth": 5.74
+  },
+  {
+    "company": "Swanson and Sons",
+    "region": "Abha",
+    "total_workers": 1458,
+    "saudi_workers": 801,
+    "expat_workers": 657,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 2.72
+  },
+  {
+    "company": "Moss, Flores and Jones",
+    "region": "Al Khobar",
+    "total_workers": 768,
+    "saudi_workers": 698,
+    "expat_workers": 70,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 3.95
+  },
+  {
+    "company": "Nguyen-Alexander",
+    "region": "Taif",
+    "total_workers": 1085,
+    "saudi_workers": 423,
+    "expat_workers": 662,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 5.11
+  },
+  {
+    "company": "Wood Group",
+    "region": "Al Khobar",
+    "total_workers": 1051,
+    "saudi_workers": 336,
+    "expat_workers": 715,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 4.92
+  },
+  {
+    "company": "Miller, Cortez and Cohen",
+    "region": "Jeddah",
+    "total_workers": 1829,
+    "saudi_workers": 1390,
+    "expat_workers": 439,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 1.77
+  },
+  {
+    "company": "Olson, Miller and Anderson",
+    "region": "Tabuk",
+    "total_workers": 662,
+    "saudi_workers": 218,
+    "expat_workers": 444,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 1.96
+  },
+  {
+    "company": "Robertson-Graves",
+    "region": "Al Khobar",
+    "total_workers": 157,
+    "saudi_workers": 100,
+    "expat_workers": 57,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.86
+  },
+  {
+    "company": "Hunt and Sons",
+    "region": "Jeddah",
+    "total_workers": 1499,
+    "saudi_workers": 584,
+    "expat_workers": 915,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 1.72
+  },
+  {
+    "company": "Williams, Glover and Watson",
+    "region": "Tabuk",
+    "total_workers": 625,
+    "saudi_workers": 456,
+    "expat_workers": 169,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 1.87
+  },
+  {
+    "company": "Dunn-Burton",
+    "region": "Jeddah",
+    "total_workers": 802,
+    "saudi_workers": 168,
+    "expat_workers": 634,
+    "saudization_%": 21,
+    "category": "Red",
+    "growth": 3.51
+  },
+  {
+    "company": "Weber LLC",
+    "region": "Abha",
+    "total_workers": 1919,
+    "saudi_workers": 633,
+    "expat_workers": 1286,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 2.1
+  },
+  {
+    "company": "Baker Ltd",
+    "region": "Abha",
+    "total_workers": 1305,
+    "saudi_workers": 861,
+    "expat_workers": 444,
+    "saudization_%": 66,
+    "category": "Green",
+    "growth": 1.32
+  },
+  {
+    "company": "Grimes, Miles and Wu",
+    "region": "Al Khobar",
+    "total_workers": 554,
+    "saudi_workers": 116,
+    "expat_workers": 438,
+    "saudization_%": 21,
+    "category": "Red",
+    "growth": 4.08
+  },
+  {
+    "company": "Kirk-Greer",
+    "region": "Medina",
+    "total_workers": 264,
+    "saudi_workers": 124,
+    "expat_workers": 140,
+    "saudization_%": 47,
+    "category": "Yellow",
+    "growth": 2.14
+  },
+  {
+    "company": "Jones-Henry",
+    "region": "Yanbu",
+    "total_workers": 1372,
+    "saudi_workers": 466,
+    "expat_workers": 906,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 1.65
+  },
+  {
+    "company": "Moreno and Sons",
+    "region": "Mecca",
+    "total_workers": 707,
+    "saudi_workers": 395,
+    "expat_workers": 312,
+    "saudization_%": 56,
+    "category": "Green",
+    "growth": 5.53
+  },
+  {
+    "company": "King, Williams and Haley",
+    "region": "Yanbu",
+    "total_workers": 124,
+    "saudi_workers": 80,
+    "expat_workers": 44,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 2.77
+  },
+  {
+    "company": "Lutz, Stuart and Stafford",
+    "region": "Taif",
+    "total_workers": 561,
+    "saudi_workers": 330,
+    "expat_workers": 231,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 4.87
+  },
+  {
+    "company": "Marshall Group",
+    "region": "Al Khobar",
+    "total_workers": 244,
+    "saudi_workers": 214,
+    "expat_workers": 30,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 3.75
+  },
+  {
+    "company": "Sherman LLC",
+    "region": "Jeddah",
+    "total_workers": 1020,
+    "saudi_workers": 459,
+    "expat_workers": 561,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 3.71
+  },
+  {
+    "company": "Mckenzie, Griffith and Wagner",
+    "region": "Yanbu",
+    "total_workers": 752,
+    "saudi_workers": 661,
+    "expat_workers": 91,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 4.35
+  },
+  {
+    "company": "Hernandez-Johnson",
+    "region": "Mecca",
+    "total_workers": 1878,
+    "saudi_workers": 1239,
+    "expat_workers": 639,
+    "saudization_%": 66,
+    "category": "Green",
+    "growth": 5.83
+  },
+  {
+    "company": "Bates PLC",
+    "region": "Taif",
+    "total_workers": 256,
+    "saudi_workers": 92,
+    "expat_workers": 164,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 5.28
+  },
+  {
+    "company": "Robbins, Carter and Smith",
+    "region": "Mecca",
+    "total_workers": 994,
+    "saudi_workers": 576,
+    "expat_workers": 418,
+    "saudization_%": 58,
+    "category": "Green",
+    "growth": 2.43
+  },
+  {
+    "company": "Green Ltd",
+    "region": "Riyadh",
+    "total_workers": 1208,
+    "saudi_workers": 302,
+    "expat_workers": 906,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 3.2
+  },
+  {
+    "company": "Williams Inc",
+    "region": "Mecca",
+    "total_workers": 484,
+    "saudi_workers": 435,
+    "expat_workers": 49,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 2.43
+  },
+  {
+    "company": "Nielsen-Fisher",
+    "region": "Mecca",
+    "total_workers": 707,
+    "saudi_workers": 629,
+    "expat_workers": 78,
+    "saudization_%": 89,
+    "category": "Platinum",
+    "growth": 1.03
+  },
+  {
+    "company": "Morales-Perkins",
+    "region": "Abha",
+    "total_workers": 1370,
+    "saudi_workers": 1123,
+    "expat_workers": 247,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 5.48
+  },
+  {
+    "company": "Owens-Gray",
+    "region": "Taif",
+    "total_workers": 924,
+    "saudi_workers": 674,
+    "expat_workers": 250,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 3.32
+  },
+  {
+    "company": "Morris Inc",
+    "region": "Riyadh",
+    "total_workers": 435,
+    "saudi_workers": 387,
+    "expat_workers": 48,
+    "saudization_%": 89,
+    "category": "Platinum",
+    "growth": 5.57
+  },
+  {
+    "company": "Hall Group",
+    "region": "Al Khobar",
+    "total_workers": 1451,
+    "saudi_workers": 420,
+    "expat_workers": 1031,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 0.68
+  },
+  {
+    "company": "Davis Ltd",
+    "region": "Al Khobar",
+    "total_workers": 144,
+    "saudi_workers": 46,
+    "expat_workers": 98,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 5.47
+  },
+  {
+    "company": "Stone-Mcguire",
+    "region": "Yanbu",
+    "total_workers": 1522,
+    "saudi_workers": 730,
+    "expat_workers": 792,
+    "saudization_%": 48,
+    "category": "Yellow",
+    "growth": 4.14
+  },
+  {
+    "company": "Chan and Sons",
+    "region": "Yanbu",
+    "total_workers": 974,
+    "saudi_workers": 146,
+    "expat_workers": 828,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 3.82
+  },
+  {
+    "company": "Kelly, Jacobs and Gilbert",
+    "region": "Riyadh",
+    "total_workers": 275,
+    "saudi_workers": 145,
+    "expat_workers": 130,
+    "saudization_%": 53,
+    "category": "Green",
+    "growth": 0.69
+  },
+  {
+    "company": "Johnson, Evans and Perry",
+    "region": "Dammam",
+    "total_workers": 792,
+    "saudi_workers": 491,
+    "expat_workers": 301,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 5.74
+  },
+  {
+    "company": "Doyle Inc",
+    "region": "Jeddah",
+    "total_workers": 1991,
+    "saudi_workers": 776,
+    "expat_workers": 1215,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 1.98
+  },
+  {
+    "company": "Hatfield-Doyle",
+    "region": "Abha",
+    "total_workers": 1487,
+    "saudi_workers": 1085,
+    "expat_workers": 402,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 5.83
+  },
+  {
+    "company": "Hicks-Cortez",
+    "region": "Tabuk",
+    "total_workers": 1349,
+    "saudi_workers": 404,
+    "expat_workers": 945,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 3.77
+  },
+  {
+    "company": "King-Smith",
+    "region": "Al Khobar",
+    "total_workers": 923,
+    "saudi_workers": 323,
+    "expat_workers": 600,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 4.05
+  },
+  {
+    "company": "Heath, Salinas and Schmidt",
+    "region": "Taif",
+    "total_workers": 1677,
+    "saudi_workers": 1257,
+    "expat_workers": 420,
+    "saudization_%": 75,
+    "category": "Platinum",
+    "growth": 5.67
+  },
+  {
+    "company": "Jones, Cardenas and Lopez",
+    "region": "Abha",
+    "total_workers": 1582,
+    "saudi_workers": 1028,
+    "expat_workers": 554,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 4.9
+  },
+  {
+    "company": "Ellis, Smith and Peters",
+    "region": "Dammam",
+    "total_workers": 1727,
+    "saudi_workers": 569,
+    "expat_workers": 1158,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 2.67
+  },
+  {
+    "company": "Collins-Valdez",
+    "region": "Yanbu",
+    "total_workers": 1798,
+    "saudi_workers": 737,
+    "expat_workers": 1061,
+    "saudization_%": 41,
+    "category": "Yellow",
+    "growth": 5.58
+  },
+  {
+    "company": "Castillo-Harris",
+    "region": "Yanbu",
+    "total_workers": 1495,
+    "saudi_workers": 1076,
+    "expat_workers": 419,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 2.54
+  },
+  {
+    "company": "Zimmerman-Yoder",
+    "region": "Tabuk",
+    "total_workers": 141,
+    "saudi_workers": 47,
+    "expat_workers": 94,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 3.95
+  },
+  {
+    "company": "Brown, Miller and Mills",
+    "region": "Al Khobar",
+    "total_workers": 654,
+    "saudi_workers": 510,
+    "expat_workers": 144,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 1.82
+  },
+  {
+    "company": "Hanson, Wagner and Flowers",
+    "region": "Tabuk",
+    "total_workers": 1361,
+    "saudi_workers": 462,
+    "expat_workers": 899,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 3.04
+  },
+  {
+    "company": "Ryan LLC",
+    "region": "Riyadh",
+    "total_workers": 1934,
+    "saudi_workers": 1257,
+    "expat_workers": 677,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 4.39
+  },
+  {
+    "company": "Brown PLC",
+    "region": "Abha",
+    "total_workers": 410,
+    "saudi_workers": 61,
+    "expat_workers": 349,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 0.58
+  },
+  {
+    "company": "Zimmerman PLC",
+    "region": "Yanbu",
+    "total_workers": 1587,
+    "saudi_workers": 571,
+    "expat_workers": 1016,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 2.7
+  },
+  {
+    "company": "Carroll-Ortiz",
+    "region": "Riyadh",
+    "total_workers": 313,
+    "saudi_workers": 140,
+    "expat_workers": 173,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 5.27
+  },
+  {
+    "company": "Reed, Hardin and Walsh",
+    "region": "Abha",
+    "total_workers": 1469,
+    "saudi_workers": 1116,
+    "expat_workers": 353,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 0.73
+  },
+  {
+    "company": "Jenkins LLC",
+    "region": "Tabuk",
+    "total_workers": 1620,
+    "saudi_workers": 453,
+    "expat_workers": 1167,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 1.09
+  },
+  {
+    "company": "Drake-French",
+    "region": "Medina",
+    "total_workers": 929,
+    "saudi_workers": 733,
+    "expat_workers": 196,
+    "saudization_%": 79,
+    "category": "Platinum",
+    "growth": 2.09
+  },
+  {
+    "company": "Deleon LLC",
+    "region": "Al Khobar",
+    "total_workers": 650,
+    "saudi_workers": 156,
+    "expat_workers": 494,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 5.09
+  },
+  {
+    "company": "Reed LLC",
+    "region": "Mecca",
+    "total_workers": 1700,
+    "saudi_workers": 374,
+    "expat_workers": 1326,
+    "saudization_%": 22,
+    "category": "Red",
+    "growth": 5.19
+  },
+  {
+    "company": "Evans-Estrada",
+    "region": "Dammam",
+    "total_workers": 1867,
+    "saudi_workers": 784,
+    "expat_workers": 1083,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 5.63
+  },
+  {
+    "company": "Hanson-Ritter",
+    "region": "Riyadh",
+    "total_workers": 963,
+    "saudi_workers": 202,
+    "expat_workers": 761,
+    "saudization_%": 21,
+    "category": "Red",
+    "growth": 3.39
+  },
+  {
+    "company": "Espinoza PLC",
+    "region": "Dammam",
+    "total_workers": 1151,
+    "saudi_workers": 471,
+    "expat_workers": 680,
+    "saudization_%": 41,
+    "category": "Yellow",
+    "growth": 2.4
+  },
+  {
+    "company": "Jones, Beard and Clark",
+    "region": "Riyadh",
+    "total_workers": 121,
+    "saudi_workers": 113,
+    "expat_workers": 8,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 5.77
+  },
+  {
+    "company": "Cervantes-Wood",
+    "region": "Abha",
+    "total_workers": 95,
+    "saudi_workers": 63,
+    "expat_workers": 32,
+    "saudization_%": 67,
+    "category": "Green",
+    "growth": 2.59
+  },
+  {
+    "company": "Burns and Sons",
+    "region": "Mecca",
+    "total_workers": 1423,
+    "saudi_workers": 1081,
+    "expat_workers": 342,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 2.61
+  },
+  {
+    "company": "Reed, Ayala and Murphy",
+    "region": "Jeddah",
+    "total_workers": 1608,
+    "saudi_workers": 691,
+    "expat_workers": 917,
+    "saudization_%": 43,
+    "category": "Yellow",
+    "growth": 2.59
+  },
+  {
+    "company": "Rogers-Schwartz",
+    "region": "Tabuk",
+    "total_workers": 1184,
+    "saudi_workers": 603,
+    "expat_workers": 581,
+    "saudization_%": 51,
+    "category": "Green",
+    "growth": 3.44
+  },
+  {
+    "company": "Gonzalez-Henderson",
+    "region": "Yanbu",
+    "total_workers": 50,
+    "saudi_workers": 7,
+    "expat_workers": 43,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 0.67
+  },
+  {
+    "company": "Johnston-Fleming",
+    "region": "Abha",
+    "total_workers": 1018,
+    "saudi_workers": 732,
+    "expat_workers": 286,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 3.96
+  },
+  {
+    "company": "Carr-Tran",
+    "region": "Riyadh",
+    "total_workers": 442,
+    "saudi_workers": 274,
+    "expat_workers": 168,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 3.0
+  },
+  {
+    "company": "Smith-Travis",
+    "region": "Yanbu",
+    "total_workers": 1294,
+    "saudi_workers": 504,
+    "expat_workers": 790,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 4.48
+  },
+  {
+    "company": "Pierce-Odonnell",
+    "region": "Medina",
+    "total_workers": 1332,
+    "saudi_workers": 825,
+    "expat_workers": 507,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 3.63
+  },
+  {
+    "company": "Fernandez-Garcia",
+    "region": "Tabuk",
+    "total_workers": 1017,
+    "saudi_workers": 650,
+    "expat_workers": 367,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.01
+  },
+  {
+    "company": "Harris-Scott",
+    "region": "Yanbu",
+    "total_workers": 1852,
+    "saudi_workers": 1055,
+    "expat_workers": 797,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 2.8
+  },
+  {
+    "company": "Lang Ltd",
+    "region": "Yanbu",
+    "total_workers": 1480,
+    "saudi_workers": 547,
+    "expat_workers": 933,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 3.56
+  },
+  {
+    "company": "Harrell Ltd",
+    "region": "Riyadh",
+    "total_workers": 576,
+    "saudi_workers": 253,
+    "expat_workers": 323,
+    "saudization_%": 44,
+    "category": "Yellow",
+    "growth": 2.55
+  },
+  {
+    "company": "Morris LLC",
+    "region": "Mecca",
+    "total_workers": 1054,
+    "saudi_workers": 948,
+    "expat_workers": 106,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 3.04
+  },
+  {
+    "company": "Strickland, Berry and Valdez",
+    "region": "Jeddah",
+    "total_workers": 331,
+    "saudi_workers": 105,
+    "expat_workers": 226,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 5.81
+  },
+  {
+    "company": "Phillips Inc",
+    "region": "Tabuk",
+    "total_workers": 1197,
+    "saudi_workers": 778,
+    "expat_workers": 419,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 2.4
+  },
+  {
+    "company": "Dixon Group",
+    "region": "Al Khobar",
+    "total_workers": 474,
+    "saudi_workers": 279,
+    "expat_workers": 195,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 1.71
+  },
+  {
+    "company": "Hawkins-White",
+    "region": "Tabuk",
+    "total_workers": 572,
+    "saudi_workers": 160,
+    "expat_workers": 412,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 1.84
+  },
+  {
+    "company": "Haney, Soto and Costa",
+    "region": "Riyadh",
+    "total_workers": 474,
+    "saudi_workers": 346,
+    "expat_workers": 128,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 2.96
+  },
+  {
+    "company": "Young-Young",
+    "region": "Jeddah",
+    "total_workers": 101,
+    "saudi_workers": 37,
+    "expat_workers": 64,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 5.05
+  },
+  {
+    "company": "Ramirez, Smith and Nguyen",
+    "region": "Medina",
+    "total_workers": 894,
+    "saudi_workers": 447,
+    "expat_workers": 447,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 5.1
+  },
+  {
+    "company": "Richardson, Adkins and Bradford",
+    "region": "Abha",
+    "total_workers": 1328,
+    "saudi_workers": 690,
+    "expat_workers": 638,
+    "saudization_%": 52,
+    "category": "Green",
+    "growth": 2.73
+  },
+  {
+    "company": "Johnson, Salazar and Mitchell",
+    "region": "Taif",
+    "total_workers": 288,
+    "saudi_workers": 175,
+    "expat_workers": 113,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 1.78
+  },
+  {
+    "company": "Schmidt PLC",
+    "region": "Riyadh",
+    "total_workers": 532,
+    "saudi_workers": 95,
+    "expat_workers": 437,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 2.08
+  },
+  {
+    "company": "Wilson-Craig",
+    "region": "Medina",
+    "total_workers": 1207,
+    "saudi_workers": 989,
+    "expat_workers": 218,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 0.65
+  },
+  {
+    "company": "Ramirez, Li and Hutchinson",
+    "region": "Abha",
+    "total_workers": 1620,
+    "saudi_workers": 648,
+    "expat_workers": 972,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 0.94
+  },
+  {
+    "company": "Mcintyre and Sons",
+    "region": "Yanbu",
+    "total_workers": 567,
+    "saudi_workers": 527,
+    "expat_workers": 40,
+    "saudization_%": 93,
+    "category": "Platinum",
+    "growth": 2.07
+  },
+  {
+    "company": "Garza-Patterson",
+    "region": "Dammam",
+    "total_workers": 129,
+    "saudi_workers": 105,
+    "expat_workers": 24,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 4.48
+  },
+  {
+    "company": "Barron, Juarez and Contreras",
+    "region": "Jeddah",
+    "total_workers": 1833,
+    "saudi_workers": 1411,
+    "expat_workers": 422,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 3.7
+  },
+  {
+    "company": "Nelson, Martin and Osborne",
+    "region": "Mecca",
+    "total_workers": 1925,
+    "saudi_workers": 1424,
+    "expat_workers": 501,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 4.63
+  },
+  {
+    "company": "Stewart Group",
+    "region": "Medina",
+    "total_workers": 1973,
+    "saudi_workers": 1716,
+    "expat_workers": 257,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 5.95
+  },
+  {
+    "company": "Wilson, Manning and Cole",
+    "region": "Abha",
+    "total_workers": 1799,
+    "saudi_workers": 647,
+    "expat_workers": 1152,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 5.78
+  },
+  {
+    "company": "Martin-Giles",
+    "region": "Yanbu",
+    "total_workers": 1147,
+    "saudi_workers": 355,
+    "expat_workers": 792,
+    "saudization_%": 31,
+    "category": "Yellow",
+    "growth": 1.59
+  },
+  {
+    "company": "Wall-Martin",
+    "region": "Yanbu",
+    "total_workers": 106,
+    "saudi_workers": 85,
+    "expat_workers": 21,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 5.98
+  },
+  {
+    "company": "Nunez and Sons",
+    "region": "Al Khobar",
+    "total_workers": 1985,
+    "saudi_workers": 1449,
+    "expat_workers": 536,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 5.62
+  },
+  {
+    "company": "Arnold Group",
+    "region": "Riyadh",
+    "total_workers": 1134,
+    "saudi_workers": 510,
+    "expat_workers": 624,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 5.22
+  },
+  {
+    "company": "Davis-Acosta",
+    "region": "Abha",
+    "total_workers": 759,
+    "saudi_workers": 516,
+    "expat_workers": 243,
+    "saudization_%": 68,
+    "category": "Green",
+    "growth": 5.96
+  },
+  {
+    "company": "Banks-Johnson",
+    "region": "Yanbu",
+    "total_workers": 1017,
+    "saudi_workers": 376,
+    "expat_workers": 641,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 5.01
+  },
+  {
+    "company": "Meyers and Sons",
+    "region": "Medina",
+    "total_workers": 960,
+    "saudi_workers": 700,
+    "expat_workers": 260,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 1.87
+  },
+  {
+    "company": "Lopez and Sons",
+    "region": "Al Khobar",
+    "total_workers": 680,
+    "saudi_workers": 163,
+    "expat_workers": 517,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 0.92
+  },
+  {
+    "company": "Wright-Morrow",
+    "region": "Abha",
+    "total_workers": 216,
+    "saudi_workers": 164,
+    "expat_workers": 52,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 3.35
+  },
+  {
+    "company": "Martinez-Schneider",
+    "region": "Mecca",
+    "total_workers": 1458,
+    "saudi_workers": 1122,
+    "expat_workers": 336,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 0.86
+  },
+  {
+    "company": "Meyers-Martinez",
+    "region": "Yanbu",
+    "total_workers": 947,
+    "saudi_workers": 217,
+    "expat_workers": 730,
+    "saudization_%": 23,
+    "category": "Red",
+    "growth": 1.91
+  },
+  {
+    "company": "Grant-Bryant",
+    "region": "Riyadh",
+    "total_workers": 1051,
+    "saudi_workers": 903,
+    "expat_workers": 148,
+    "saudization_%": 86,
+    "category": "Platinum",
+    "growth": 3.11
+  },
+  {
+    "company": "Warren-Lynch",
+    "region": "Tabuk",
+    "total_workers": 1976,
+    "saudi_workers": 968,
+    "expat_workers": 1008,
+    "saudization_%": 49,
+    "category": "Yellow",
+    "growth": 3.47
+  },
+  {
+    "company": "Green and Sons",
+    "region": "Taif",
+    "total_workers": 1738,
+    "saudi_workers": 1459,
+    "expat_workers": 279,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 3.22
+  },
+  {
+    "company": "Roman-Shelton",
+    "region": "Abha",
+    "total_workers": 1030,
+    "saudi_workers": 968,
+    "expat_workers": 62,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 1.52
+  },
+  {
+    "company": "Elliott, Hayes and Lee",
+    "region": "Dammam",
+    "total_workers": 1588,
+    "saudi_workers": 555,
+    "expat_workers": 1033,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 2.56
+  },
+  {
+    "company": "Parker Ltd",
+    "region": "Taif",
+    "total_workers": 1520,
+    "saudi_workers": 684,
+    "expat_workers": 836,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 1.83
+  },
+  {
+    "company": "Thompson, Hill and Zavala",
+    "region": "Abha",
+    "total_workers": 378,
+    "saudi_workers": 257,
+    "expat_workers": 121,
+    "saudization_%": 68,
+    "category": "Green",
+    "growth": 4.74
+  },
+  {
+    "company": "Ford, Dillon and Young",
+    "region": "Abha",
+    "total_workers": 1561,
+    "saudi_workers": 999,
+    "expat_workers": 562,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.83
+  },
+  {
+    "company": "Steele, Taylor and Peterson",
+    "region": "Dammam",
+    "total_workers": 1990,
+    "saudi_workers": 517,
+    "expat_workers": 1473,
+    "saudization_%": 26,
+    "category": "Red",
+    "growth": 3.99
+  },
+  {
+    "company": "Yu-Chung",
+    "region": "Yanbu",
+    "total_workers": 391,
+    "saudi_workers": 211,
+    "expat_workers": 180,
+    "saudization_%": 54,
+    "category": "Green",
+    "growth": 2.61
+  },
+  {
+    "company": "Wiggins-Clark",
+    "region": "Medina",
+    "total_workers": 338,
+    "saudi_workers": 300,
+    "expat_workers": 38,
+    "saudization_%": 89,
+    "category": "Platinum",
+    "growth": 4.13
+  },
+  {
+    "company": "Stanton Inc",
+    "region": "Medina",
+    "total_workers": 717,
+    "saudi_workers": 466,
+    "expat_workers": 251,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 1.85
+  },
+  {
+    "company": "White-Coleman",
+    "region": "Tabuk",
+    "total_workers": 140,
+    "saudi_workers": 42,
+    "expat_workers": 98,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 5.88
+  },
+  {
+    "company": "Davis Group",
+    "region": "Yanbu",
+    "total_workers": 785,
+    "saudi_workers": 149,
+    "expat_workers": 636,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 4.97
+  },
+  {
+    "company": "Rhodes and Sons",
+    "region": "Riyadh",
+    "total_workers": 102,
+    "saudi_workers": 24,
+    "expat_workers": 78,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 5.13
+  },
+  {
+    "company": "Stevens-Jackson",
+    "region": "Jeddah",
+    "total_workers": 747,
+    "saudi_workers": 463,
+    "expat_workers": 284,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 4.29
+  },
+  {
+    "company": "Crawford Group",
+    "region": "Tabuk",
+    "total_workers": 499,
+    "saudi_workers": 134,
+    "expat_workers": 365,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 3.11
+  },
+  {
+    "company": "Tate-Mejia",
+    "region": "Tabuk",
+    "total_workers": 459,
+    "saudi_workers": 224,
+    "expat_workers": 235,
+    "saudization_%": 49,
+    "category": "Yellow",
+    "growth": 0.56
+  },
+  {
+    "company": "Richard-Perry",
+    "region": "Medina",
+    "total_workers": 208,
+    "saudi_workers": 162,
+    "expat_workers": 46,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 1.39
+  },
+  {
+    "company": "Travis PLC",
+    "region": "Jeddah",
+    "total_workers": 349,
+    "saudi_workers": 153,
+    "expat_workers": 196,
+    "saudization_%": 44,
+    "category": "Yellow",
+    "growth": 3.63
+  },
+  {
+    "company": "Schmidt-Martinez",
+    "region": "Tabuk",
+    "total_workers": 337,
+    "saudi_workers": 283,
+    "expat_workers": 54,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 3.2
+  },
+  {
+    "company": "Clarke, Moore and Kelly",
+    "region": "Jeddah",
+    "total_workers": 492,
+    "saudi_workers": 319,
+    "expat_workers": 173,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 4.51
+  },
+  {
+    "company": "Montes, White and Allen",
+    "region": "Al Khobar",
+    "total_workers": 161,
+    "saudi_workers": 24,
+    "expat_workers": 137,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 1.92
+  },
+  {
+    "company": "Diaz and Sons",
+    "region": "Dammam",
+    "total_workers": 1311,
+    "saudi_workers": 865,
+    "expat_workers": 446,
+    "saudization_%": 66,
+    "category": "Green",
+    "growth": 5.84
+  },
+  {
+    "company": "Galloway-Greene",
+    "region": "Dammam",
+    "total_workers": 125,
+    "saudi_workers": 107,
+    "expat_workers": 18,
+    "saudization_%": 86,
+    "category": "Platinum",
+    "growth": 4.78
+  },
+  {
+    "company": "Brown, Alvarado and Kent",
+    "region": "Mecca",
+    "total_workers": 1004,
+    "saudi_workers": 271,
+    "expat_workers": 733,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 4.44
+  },
+  {
+    "company": "Williams-Flores",
+    "region": "Tabuk",
+    "total_workers": 858,
+    "saudi_workers": 660,
+    "expat_workers": 198,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 1.11
+  },
+  {
+    "company": "Shaffer-Figueroa",
+    "region": "Taif",
+    "total_workers": 1363,
+    "saudi_workers": 408,
+    "expat_workers": 955,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 1.28
+  },
+  {
+    "company": "Cox, Blair and Conner",
+    "region": "Dammam",
+    "total_workers": 721,
+    "saudi_workers": 129,
+    "expat_workers": 592,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 3.87
+  },
+  {
+    "company": "Edwards-Hawkins",
+    "region": "Medina",
+    "total_workers": 314,
+    "saudi_workers": 172,
+    "expat_workers": 142,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 5.8
+  },
+  {
+    "company": "Parker, Johnson and Rodriguez",
+    "region": "Abha",
+    "total_workers": 187,
+    "saudi_workers": 44,
+    "expat_workers": 143,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 1.18
+  },
+  {
+    "company": "Montgomery, Gross and Stout",
+    "region": "Yanbu",
+    "total_workers": 1313,
+    "saudi_workers": 525,
+    "expat_workers": 788,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 1.98
+  },
+  {
+    "company": "Davis, Romero and Smith",
+    "region": "Al Khobar",
+    "total_workers": 1571,
+    "saudi_workers": 377,
+    "expat_workers": 1194,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 3.84
+  },
+  {
+    "company": "Roberson LLC",
+    "region": "Dammam",
+    "total_workers": 846,
+    "saudi_workers": 279,
+    "expat_workers": 567,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 4.64
+  },
+  {
+    "company": "Cannon-Bradley",
+    "region": "Taif",
+    "total_workers": 638,
+    "saudi_workers": 95,
+    "expat_workers": 543,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 1.59
+  },
+  {
+    "company": "Grimes-Rivera",
+    "region": "Yanbu",
+    "total_workers": 1020,
+    "saudi_workers": 765,
+    "expat_workers": 255,
+    "saudization_%": 75,
+    "category": "Platinum",
+    "growth": 5.86
+  },
+  {
+    "company": "Jackson, Hill and Martinez",
+    "region": "Abha",
+    "total_workers": 1343,
+    "saudi_workers": 899,
+    "expat_workers": 444,
+    "saudization_%": 67,
+    "category": "Green",
+    "growth": 2.22
+  },
+  {
+    "company": "Pittman-Lucas",
+    "region": "Abha",
+    "total_workers": 985,
+    "saudi_workers": 216,
+    "expat_workers": 769,
+    "saudization_%": 22,
+    "category": "Red",
+    "growth": 3.23
+  },
+  {
+    "company": "Phelps-Faulkner",
+    "region": "Jeddah",
+    "total_workers": 1122,
+    "saudi_workers": 852,
+    "expat_workers": 270,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 3.26
+  },
+  {
+    "company": "Smith and Sons",
+    "region": "Taif",
+    "total_workers": 84,
+    "saudi_workers": 13,
+    "expat_workers": 71,
+    "saudization_%": 16,
+    "category": "Red",
+    "growth": 2.99
+  },
+  {
+    "company": "Mason-Burns",
+    "region": "Medina",
+    "total_workers": 141,
+    "saudi_workers": 70,
+    "expat_workers": 71,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 2.87
+  },
+  {
+    "company": "Richards, Glover and Chandler",
+    "region": "Tabuk",
+    "total_workers": 423,
+    "saudi_workers": 224,
+    "expat_workers": 199,
+    "saudization_%": 53,
+    "category": "Green",
+    "growth": 5.47
+  },
+  {
+    "company": "Sanders PLC",
+    "region": "Al Khobar",
+    "total_workers": 1924,
+    "saudi_workers": 711,
+    "expat_workers": 1213,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 3.56
+  },
+  {
+    "company": "Ortiz, Smith and Carey",
+    "region": "Riyadh",
+    "total_workers": 1264,
+    "saudi_workers": 189,
+    "expat_workers": 1075,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 4.83
+  },
+  {
+    "company": "Singh Inc",
+    "region": "Medina",
+    "total_workers": 553,
+    "saudi_workers": 387,
+    "expat_workers": 166,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 1.12
+  },
+  {
+    "company": "Phillips-Le",
+    "region": "Dammam",
+    "total_workers": 132,
+    "saudi_workers": 47,
+    "expat_workers": 85,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 5.18
+  },
+  {
+    "company": "Hughes-Kramer",
+    "region": "Medina",
+    "total_workers": 1052,
+    "saudi_workers": 441,
+    "expat_workers": 611,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 4.46
+  },
+  {
+    "company": "Carr, Riley and Kim",
+    "region": "Medina",
+    "total_workers": 1994,
+    "saudi_workers": 458,
+    "expat_workers": 1536,
+    "saudization_%": 23,
+    "category": "Red",
+    "growth": 3.98
+  },
+  {
+    "company": "Lawson-Casey",
+    "region": "Tabuk",
+    "total_workers": 1015,
+    "saudi_workers": 314,
+    "expat_workers": 701,
+    "saudization_%": 31,
+    "category": "Yellow",
+    "growth": 5.0
+  },
+  {
+    "company": "Evans, Barron and Lawson",
+    "region": "Riyadh",
+    "total_workers": 799,
+    "saudi_workers": 319,
+    "expat_workers": 480,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 1.34
+  },
+  {
+    "company": "Melendez, Rice and Burke",
+    "region": "Dammam",
+    "total_workers": 768,
+    "saudi_workers": 537,
+    "expat_workers": 231,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 5.41
+  },
+  {
+    "company": "Moore-Baker",
+    "region": "Abha",
+    "total_workers": 373,
+    "saudi_workers": 108,
+    "expat_workers": 265,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 4.51
+  },
+  {
+    "company": "Reid, Steele and Reed",
+    "region": "Yanbu",
+    "total_workers": 801,
+    "saudi_workers": 128,
+    "expat_workers": 673,
+    "saudization_%": 16,
+    "category": "Red",
+    "growth": 4.08
+  },
+  {
+    "company": "Nunez, Bass and Kramer",
+    "region": "Medina",
+    "total_workers": 1537,
+    "saudi_workers": 1291,
+    "expat_workers": 246,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 1.16
+  },
+  {
+    "company": "Sharp Inc",
+    "region": "Abha",
+    "total_workers": 821,
+    "saudi_workers": 738,
+    "expat_workers": 83,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 2.16
+  },
+  {
+    "company": "Martin-Martinez",
+    "region": "Tabuk",
+    "total_workers": 1321,
+    "saudi_workers": 977,
+    "expat_workers": 344,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 3.1
+  },
+  {
+    "company": "Martin, Miller and Malone",
+    "region": "Riyadh",
+    "total_workers": 1530,
+    "saudi_workers": 642,
+    "expat_workers": 888,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 5.72
+  },
+  {
+    "company": "Lozano-Kim",
+    "region": "Abha",
+    "total_workers": 1853,
+    "saudi_workers": 1000,
+    "expat_workers": 853,
+    "saudization_%": 54,
+    "category": "Green",
+    "growth": 1.69
+  },
+  {
+    "company": "Rosario-Coleman",
+    "region": "Medina",
+    "total_workers": 136,
+    "saudi_workers": 55,
+    "expat_workers": 81,
+    "saudization_%": 41,
+    "category": "Yellow",
+    "growth": 3.96
+  },
+  {
+    "company": "Jones PLC",
+    "region": "Medina",
+    "total_workers": 386,
+    "saudi_workers": 366,
+    "expat_workers": 20,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 5.17
+  },
+  {
+    "company": "English Inc",
+    "region": "Tabuk",
+    "total_workers": 431,
+    "saudi_workers": 112,
+    "expat_workers": 319,
+    "saudization_%": 26,
+    "category": "Red",
+    "growth": 5.22
+  },
+  {
+    "company": "Smith Ltd",
+    "region": "Medina",
+    "total_workers": 1272,
+    "saudi_workers": 1119,
+    "expat_workers": 153,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 4.27
+  },
+  {
+    "company": "Rivera, Rivera and Elliott",
+    "region": "Tabuk",
+    "total_workers": 590,
+    "saudi_workers": 401,
+    "expat_workers": 189,
+    "saudization_%": 68,
+    "category": "Green",
+    "growth": 4.21
+  },
+  {
+    "company": "Haney, Morales and Henson",
+    "region": "Tabuk",
+    "total_workers": 538,
+    "saudi_workers": 306,
+    "expat_workers": 232,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 4.81
+  },
+  {
+    "company": "Gonzalez-Small",
+    "region": "Tabuk",
+    "total_workers": 64,
+    "saudi_workers": 53,
+    "expat_workers": 11,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 3.3
+  },
+  {
+    "company": "Franco-Villegas",
+    "region": "Dammam",
+    "total_workers": 1557,
+    "saudi_workers": 1043,
+    "expat_workers": 514,
+    "saudization_%": 67,
+    "category": "Green",
+    "growth": 2.54
+  },
+  {
+    "company": "Cox, Mckinney and Williams",
+    "region": "Mecca",
+    "total_workers": 157,
+    "saudi_workers": 45,
+    "expat_workers": 112,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 4.4
+  },
+  {
+    "company": "King Group",
+    "region": "Mecca",
+    "total_workers": 979,
+    "saudi_workers": 234,
+    "expat_workers": 745,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 2.82
+  },
+  {
+    "company": "Lewis, Howell and Holder",
+    "region": "Al Khobar",
+    "total_workers": 1110,
+    "saudi_workers": 432,
+    "expat_workers": 678,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 0.56
+  },
+  {
+    "company": "Newton Group",
+    "region": "Dammam",
+    "total_workers": 829,
+    "saudi_workers": 348,
+    "expat_workers": 481,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 5.13
+  },
+  {
+    "company": "Mitchell, Goodwin and Humphrey",
+    "region": "Tabuk",
+    "total_workers": 1825,
+    "saudi_workers": 1076,
+    "expat_workers": 749,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 4.68
+  },
+  {
+    "company": "Mills, Perry and Nash",
+    "region": "Medina",
+    "total_workers": 250,
+    "saudi_workers": 185,
+    "expat_workers": 65,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 1.7
+  },
+  {
+    "company": "Jimenez-Hill",
+    "region": "Medina",
+    "total_workers": 1868,
+    "saudi_workers": 448,
+    "expat_workers": 1420,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 4.3
+  },
+  {
+    "company": "Smith-Mata",
+    "region": "Tabuk",
+    "total_workers": 1553,
+    "saudi_workers": 1242,
+    "expat_workers": 311,
+    "saudization_%": 80,
+    "category": "Platinum",
+    "growth": 1.19
+  },
+  {
+    "company": "Rodriguez Ltd",
+    "region": "Riyadh",
+    "total_workers": 323,
+    "saudi_workers": 83,
+    "expat_workers": 240,
+    "saudization_%": 26,
+    "category": "Red",
+    "growth": 2.02
+  },
+  {
+    "company": "Dominguez PLC",
+    "region": "Jeddah",
+    "total_workers": 537,
+    "saudi_workers": 182,
+    "expat_workers": 355,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 3.36
+  },
+  {
+    "company": "Lang-Kidd",
+    "region": "Taif",
+    "total_workers": 322,
+    "saudi_workers": 247,
+    "expat_workers": 75,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 0.97
+  },
+  {
+    "company": "Krause PLC",
+    "region": "Medina",
+    "total_workers": 818,
+    "saudi_workers": 597,
+    "expat_workers": 221,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 3.52
+  },
+  {
+    "company": "Valdez, Cooke and Howard",
+    "region": "Medina",
+    "total_workers": 1713,
+    "saudi_workers": 599,
+    "expat_workers": 1114,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 3.8
+  },
+  {
+    "company": "Archer, Roberts and Castro",
+    "region": "Riyadh",
+    "total_workers": 157,
+    "saudi_workers": 39,
+    "expat_workers": 118,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 0.5
+  },
+  {
+    "company": "Pacheco, Frederick and Mitchell",
+    "region": "Tabuk",
+    "total_workers": 1574,
+    "saudi_workers": 299,
+    "expat_workers": 1275,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 0.96
+  },
+  {
+    "company": "Williams, Reyes and Wilson",
+    "region": "Tabuk",
+    "total_workers": 1831,
+    "saudi_workers": 1245,
+    "expat_workers": 586,
+    "saudization_%": 68,
+    "category": "Green",
+    "growth": 2.76
+  },
+  {
+    "company": "Cohen-Mueller",
+    "region": "Yanbu",
+    "total_workers": 1683,
+    "saudi_workers": 1582,
+    "expat_workers": 101,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 5.76
+  },
+  {
+    "company": "Berry Group",
+    "region": "Medina",
+    "total_workers": 1954,
+    "saudi_workers": 1113,
+    "expat_workers": 841,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 3.63
+  },
+  {
+    "company": "Schroeder-Ross",
+    "region": "Tabuk",
+    "total_workers": 1990,
+    "saudi_workers": 1014,
+    "expat_workers": 976,
+    "saudization_%": 51,
+    "category": "Green",
+    "growth": 1.49
+  },
+  {
+    "company": "Costa, Mckay and Green",
+    "region": "Taif",
+    "total_workers": 718,
+    "saudi_workers": 280,
+    "expat_workers": 438,
+    "saudization_%": 39,
+    "category": "Yellow",
+    "growth": 5.25
+  },
+  {
+    "company": "Moore PLC",
+    "region": "Tabuk",
+    "total_workers": 513,
+    "saudi_workers": 487,
+    "expat_workers": 26,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 2.04
+  },
+  {
+    "company": "Moss and Sons",
+    "region": "Medina",
+    "total_workers": 1724,
+    "saudi_workers": 637,
+    "expat_workers": 1087,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 2.12
+  },
+  {
+    "company": "Herrera-Thomas",
+    "region": "Taif",
+    "total_workers": 443,
+    "saudi_workers": 252,
+    "expat_workers": 191,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 4.83
+  },
+  {
+    "company": "Curtis LLC",
+    "region": "Jeddah",
+    "total_workers": 1906,
+    "saudi_workers": 533,
+    "expat_workers": 1373,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 1.89
+  },
+  {
+    "company": "Harmon-Porter",
+    "region": "Yanbu",
+    "total_workers": 1237,
+    "saudi_workers": 1125,
+    "expat_workers": 112,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 3.54
+  },
+  {
+    "company": "Olson Inc",
+    "region": "Riyadh",
+    "total_workers": 479,
+    "saudi_workers": 407,
+    "expat_workers": 72,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 4.92
+  },
+  {
+    "company": "Phillips, Ho and Robinson",
+    "region": "Dammam",
+    "total_workers": 322,
+    "saudi_workers": 135,
+    "expat_workers": 187,
+    "saudization_%": 42,
+    "category": "Yellow",
+    "growth": 2.37
+  },
+  {
+    "company": "Stevenson Group",
+    "region": "Taif",
+    "total_workers": 1207,
+    "saudi_workers": 229,
+    "expat_workers": 978,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 4.34
+  },
+  {
+    "company": "Wheeler, Clark and Wong",
+    "region": "Medina",
+    "total_workers": 793,
+    "saudi_workers": 436,
+    "expat_workers": 357,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 4.42
+  },
+  {
+    "company": "Jackson, Bell and Jackson",
+    "region": "Riyadh",
+    "total_workers": 1534,
+    "saudi_workers": 1104,
+    "expat_workers": 430,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 1.69
+  },
+  {
+    "company": "Juarez Inc",
+    "region": "Medina",
+    "total_workers": 155,
+    "saudi_workers": 71,
+    "expat_workers": 84,
+    "saudization_%": 46,
+    "category": "Yellow",
+    "growth": 3.22
+  },
+  {
+    "company": "Garcia, Gentry and Beltran",
+    "region": "Jeddah",
+    "total_workers": 1760,
+    "saudi_workers": 1443,
+    "expat_workers": 317,
+    "saudization_%": 82,
+    "category": "Platinum",
+    "growth": 3.5
+  },
+  {
+    "company": "Hernandez-Smith",
+    "region": "Taif",
+    "total_workers": 1325,
+    "saudi_workers": 980,
+    "expat_workers": 345,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 1.28
+  },
+  {
+    "company": "Patterson Ltd",
+    "region": "Mecca",
+    "total_workers": 80,
+    "saudi_workers": 45,
+    "expat_workers": 35,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 2.23
+  },
+  {
+    "company": "Sanchez-Dunlap",
+    "region": "Jeddah",
+    "total_workers": 282,
+    "saudi_workers": 256,
+    "expat_workers": 26,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 4.92
+  },
+  {
+    "company": "Boyer, Fox and Adkins",
+    "region": "Tabuk",
+    "total_workers": 275,
+    "saudi_workers": 195,
+    "expat_workers": 80,
+    "saudization_%": 71,
+    "category": "Platinum",
+    "growth": 1.99
+  },
+  {
+    "company": "Chapman, Jones and Pierce",
+    "region": "Al Khobar",
+    "total_workers": 1745,
+    "saudi_workers": 488,
+    "expat_workers": 1257,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 2.64
+  },
+  {
+    "company": "Wright PLC",
+    "region": "Abha",
+    "total_workers": 1121,
+    "saudi_workers": 784,
+    "expat_workers": 337,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 2.74
+  },
+  {
+    "company": "Jones-Burton",
+    "region": "Al Khobar",
+    "total_workers": 766,
+    "saudi_workers": 566,
+    "expat_workers": 200,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 0.92
+  },
+  {
+    "company": "Stone, Duncan and James",
+    "region": "Dammam",
+    "total_workers": 1700,
+    "saudi_workers": 492,
+    "expat_workers": 1208,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 3.55
+  },
+  {
+    "company": "Molina Inc",
+    "region": "Jeddah",
+    "total_workers": 1614,
+    "saudi_workers": 403,
+    "expat_workers": 1211,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 2.6
+  },
+  {
+    "company": "Morris and Sons",
+    "region": "Mecca",
+    "total_workers": 1622,
+    "saudi_workers": 405,
+    "expat_workers": 1217,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 4.66
+  },
+  {
+    "company": "Byrd-Lynch",
+    "region": "Tabuk",
+    "total_workers": 1775,
+    "saudi_workers": 1082,
+    "expat_workers": 693,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 5.1
+  },
+  {
+    "company": "Conley Group",
+    "region": "Al Khobar",
+    "total_workers": 914,
+    "saudi_workers": 402,
+    "expat_workers": 512,
+    "saudization_%": 44,
+    "category": "Yellow",
+    "growth": 4.58
+  },
+  {
+    "company": "Shelton, Davis and Anderson",
+    "region": "Jeddah",
+    "total_workers": 1492,
+    "saudi_workers": 402,
+    "expat_workers": 1090,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 4.84
+  },
+  {
+    "company": "Young, Schneider and Wolfe",
+    "region": "Medina",
+    "total_workers": 1232,
+    "saudi_workers": 1084,
+    "expat_workers": 148,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 1.02
+  },
+  {
+    "company": "Clayton-Kim",
+    "region": "Jeddah",
+    "total_workers": 631,
+    "saudi_workers": 593,
+    "expat_workers": 38,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 1.65
+  },
+  {
+    "company": "Scott Ltd",
+    "region": "Jeddah",
+    "total_workers": 1523,
+    "saudi_workers": 1385,
+    "expat_workers": 138,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 4.58
+  },
+  {
+    "company": "Schroeder, Harrison and Jackson",
+    "region": "Jeddah",
+    "total_workers": 1182,
+    "saudi_workers": 732,
+    "expat_workers": 450,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 5.96
+  },
+  {
+    "company": "Johnson, Paul and Rogers",
+    "region": "Yanbu",
+    "total_workers": 1899,
+    "saudi_workers": 1747,
+    "expat_workers": 152,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 1.54
+  },
+  {
+    "company": "Higgins Ltd",
+    "region": "Abha",
+    "total_workers": 1269,
+    "saudi_workers": 1015,
+    "expat_workers": 254,
+    "saudization_%": 80,
+    "category": "Platinum",
+    "growth": 3.14
+  },
+  {
+    "company": "Jackson Group",
+    "region": "Dammam",
+    "total_workers": 1802,
+    "saudi_workers": 612,
+    "expat_workers": 1190,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 3.61
+  },
+  {
+    "company": "Foster, Le and Kirby",
+    "region": "Tabuk",
+    "total_workers": 1450,
+    "saudi_workers": 275,
+    "expat_workers": 1175,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 1.69
+  },
+  {
+    "company": "Ferguson-Eaton",
+    "region": "Jeddah",
+    "total_workers": 1440,
+    "saudi_workers": 244,
+    "expat_workers": 1196,
+    "saudization_%": 17,
+    "category": "Red",
+    "growth": 0.73
+  },
+  {
+    "company": "Bennett Group",
+    "region": "Abha",
+    "total_workers": 903,
+    "saudi_workers": 180,
+    "expat_workers": 723,
+    "saudization_%": 20,
+    "category": "Red",
+    "growth": 1.92
+  },
+  {
+    "company": "Davis-Turner",
+    "region": "Medina",
+    "total_workers": 1274,
+    "saudi_workers": 1159,
+    "expat_workers": 115,
+    "saudization_%": 91,
+    "category": "Platinum",
+    "growth": 2.07
+  },
+  {
+    "company": "Montgomery Group",
+    "region": "Jeddah",
+    "total_workers": 1095,
+    "saudi_workers": 251,
+    "expat_workers": 844,
+    "saudization_%": 23,
+    "category": "Red",
+    "growth": 2.91
+  },
+  {
+    "company": "Miller-Miller",
+    "region": "Yanbu",
+    "total_workers": 105,
+    "saudi_workers": 98,
+    "expat_workers": 7,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 4.37
+  },
+  {
+    "company": "Miller Group",
+    "region": "Taif",
+    "total_workers": 226,
+    "saudi_workers": 70,
+    "expat_workers": 156,
+    "saudization_%": 31,
+    "category": "Yellow",
+    "growth": 3.77
+  },
+  {
+    "company": "Cannon and Sons",
+    "region": "Yanbu",
+    "total_workers": 1216,
+    "saudi_workers": 887,
+    "expat_workers": 329,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 5.63
+  },
+  {
+    "company": "Wagner-Hubbard",
+    "region": "Medina",
+    "total_workers": 647,
+    "saudi_workers": 569,
+    "expat_workers": 78,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 2.13
+  },
+  {
+    "company": "Rodriguez, Gross and Clark",
+    "region": "Jeddah",
+    "total_workers": 1870,
+    "saudi_workers": 635,
+    "expat_workers": 1235,
+    "saudization_%": 34,
+    "category": "Yellow",
+    "growth": 1.52
+  },
+  {
+    "company": "Robinson-Smith",
+    "region": "Al Khobar",
+    "total_workers": 1318,
+    "saudi_workers": 1159,
+    "expat_workers": 159,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 1.65
+  },
+  {
+    "company": "Hart, Sullivan and Taylor",
+    "region": "Riyadh",
+    "total_workers": 1588,
+    "saudi_workers": 762,
+    "expat_workers": 826,
+    "saudization_%": 48,
+    "category": "Yellow",
+    "growth": 4.17
+  },
+  {
+    "company": "Maxwell-Harris",
+    "region": "Al Khobar",
+    "total_workers": 1996,
+    "saudi_workers": 299,
+    "expat_workers": 1697,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 1.91
+  },
+  {
+    "company": "Carroll-Parker",
+    "region": "Riyadh",
+    "total_workers": 1021,
+    "saudi_workers": 735,
+    "expat_workers": 286,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 4.67
+  },
+  {
+    "company": "Lucas-Johnson",
+    "region": "Yanbu",
+    "total_workers": 459,
+    "saudi_workers": 321,
+    "expat_workers": 138,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 3.17
+  },
+  {
+    "company": "Saunders, Cross and Evans",
+    "region": "Mecca",
+    "total_workers": 1605,
+    "saudi_workers": 866,
+    "expat_workers": 739,
+    "saudization_%": 54,
+    "category": "Green",
+    "growth": 2.3
+  },
+  {
+    "company": "Smith-Farmer",
+    "region": "Dammam",
+    "total_workers": 1314,
+    "saudi_workers": 1064,
+    "expat_workers": 250,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 4.07
+  },
+  {
+    "company": "Cox-Guzman",
+    "region": "Abha",
+    "total_workers": 911,
+    "saudi_workers": 519,
+    "expat_workers": 392,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 4.01
+  },
+  {
+    "company": "Sullivan-Monroe",
+    "region": "Riyadh",
+    "total_workers": 1583,
+    "saudi_workers": 981,
+    "expat_workers": 602,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 5.46
+  },
+  {
+    "company": "Davis, Henry and Richardson",
+    "region": "Al Khobar",
+    "total_workers": 1058,
+    "saudi_workers": 581,
+    "expat_workers": 477,
+    "saudization_%": 55,
+    "category": "Green",
+    "growth": 5.78
+  },
+  {
+    "company": "Willis, Andrews and Brown",
+    "region": "Jeddah",
+    "total_workers": 335,
+    "saudi_workers": 123,
+    "expat_workers": 212,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 0.76
+  },
+  {
+    "company": "Richmond LLC",
+    "region": "Al Khobar",
+    "total_workers": 705,
+    "saudi_workers": 133,
+    "expat_workers": 572,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 1.4
+  },
+  {
+    "company": "Sutton-Adams",
+    "region": "Jeddah",
+    "total_workers": 408,
+    "saudi_workers": 142,
+    "expat_workers": 266,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 4.08
+  },
+  {
+    "company": "Roberson LLC",
+    "region": "Al Khobar",
+    "total_workers": 63,
+    "saudi_workers": 44,
+    "expat_workers": 19,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 0.98
+  },
+  {
+    "company": "Fox, Robles and Hernandez",
+    "region": "Tabuk",
+    "total_workers": 911,
+    "saudi_workers": 774,
+    "expat_workers": 137,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 5.9
+  },
+  {
+    "company": "Smith Inc",
+    "region": "Abha",
+    "total_workers": 1050,
+    "saudi_workers": 199,
+    "expat_workers": 851,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 0.97
+  },
+  {
+    "company": "Cruz Ltd",
+    "region": "Jeddah",
+    "total_workers": 1813,
+    "saudi_workers": 634,
+    "expat_workers": 1179,
+    "saudization_%": 35,
+    "category": "Yellow",
+    "growth": 1.91
+  },
+  {
+    "company": "Williams-Burnett",
+    "region": "Taif",
+    "total_workers": 864,
+    "saudi_workers": 656,
+    "expat_workers": 208,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 3.97
+  },
+  {
+    "company": "Edwards, Hall and Bates",
+    "region": "Abha",
+    "total_workers": 892,
+    "saudi_workers": 249,
+    "expat_workers": 643,
+    "saudization_%": 28,
+    "category": "Red",
+    "growth": 3.57
+  },
+  {
+    "company": "Bush-Flores",
+    "region": "Jeddah",
+    "total_workers": 1610,
+    "saudi_workers": 1191,
+    "expat_workers": 419,
+    "saudization_%": 74,
+    "category": "Platinum",
+    "growth": 4.13
+  },
+  {
+    "company": "Scott and Sons",
+    "region": "Riyadh",
+    "total_workers": 1209,
+    "saudi_workers": 749,
+    "expat_workers": 460,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 3.7
+  },
+  {
+    "company": "Murphy-Bullock",
+    "region": "Tabuk",
+    "total_workers": 681,
+    "saudi_workers": 537,
+    "expat_workers": 144,
+    "saudization_%": 79,
+    "category": "Platinum",
+    "growth": 2.86
+  },
+  {
+    "company": "Peterson, Johnson and Figueroa",
+    "region": "Medina",
+    "total_workers": 1848,
+    "saudi_workers": 1700,
+    "expat_workers": 148,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 3.53
+  },
+  {
+    "company": "Mclean, Jones and Jarvis",
+    "region": "Riyadh",
+    "total_workers": 1764,
+    "saudi_workers": 1111,
+    "expat_workers": 653,
+    "saudization_%": 63,
+    "category": "Green",
+    "growth": 1.99
+  },
+  {
+    "company": "Choi-Clark",
+    "region": "Al Khobar",
+    "total_workers": 880,
+    "saudi_workers": 325,
+    "expat_workers": 555,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 4.04
+  },
+  {
+    "company": "Moon PLC",
+    "region": "Taif",
+    "total_workers": 901,
+    "saudi_workers": 504,
+    "expat_workers": 397,
+    "saudization_%": 56,
+    "category": "Green",
+    "growth": 3.02
+  },
+  {
+    "company": "Boone-Robinson",
+    "region": "Tabuk",
+    "total_workers": 1799,
+    "saudi_workers": 1187,
+    "expat_workers": 612,
+    "saudization_%": 66,
+    "category": "Green",
+    "growth": 4.71
+  },
+  {
+    "company": "Carter, Diaz and Smith",
+    "region": "Abha",
+    "total_workers": 1125,
+    "saudi_workers": 720,
+    "expat_workers": 405,
+    "saudization_%": 64,
+    "category": "Green",
+    "growth": 4.42
+  },
+  {
+    "company": "Brown, Wallace and Miller",
+    "region": "Dammam",
+    "total_workers": 1627,
+    "saudi_workers": 992,
+    "expat_workers": 635,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 2.35
+  },
+  {
+    "company": "Townsend PLC",
+    "region": "Medina",
+    "total_workers": 279,
+    "saudi_workers": 225,
+    "expat_workers": 54,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 3.13
+  },
+  {
+    "company": "Clark-Obrien",
+    "region": "Al Khobar",
+    "total_workers": 1485,
+    "saudi_workers": 1381,
+    "expat_workers": 104,
+    "saudization_%": 93,
+    "category": "Platinum",
+    "growth": 4.74
+  },
+  {
+    "company": "Jones, Humphrey and Martinez",
+    "region": "Tabuk",
+    "total_workers": 752,
+    "saudi_workers": 203,
+    "expat_workers": 549,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 3.24
+  },
+  {
+    "company": "Obrien-Wood",
+    "region": "Mecca",
+    "total_workers": 1078,
+    "saudi_workers": 636,
+    "expat_workers": 442,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 2.32
+  },
+  {
+    "company": "Myers Group",
+    "region": "Riyadh",
+    "total_workers": 763,
+    "saudi_workers": 480,
+    "expat_workers": 283,
+    "saudization_%": 63,
+    "category": "Green",
+    "growth": 4.35
+  },
+  {
+    "company": "Morris-Martin",
+    "region": "Jeddah",
+    "total_workers": 1051,
+    "saudi_workers": 557,
+    "expat_workers": 494,
+    "saudization_%": 53,
+    "category": "Green",
+    "growth": 3.51
+  },
+  {
+    "company": "May-Chen",
+    "region": "Abha",
+    "total_workers": 1934,
+    "saudi_workers": 1740,
+    "expat_workers": 194,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 0.66
+  },
+  {
+    "company": "Friedman, Rowe and Hart",
+    "region": "Yanbu",
+    "total_workers": 330,
+    "saudi_workers": 85,
+    "expat_workers": 245,
+    "saudization_%": 26,
+    "category": "Red",
+    "growth": 3.36
+  },
+  {
+    "company": "Mills-Hicks",
+    "region": "Al Khobar",
+    "total_workers": 1985,
+    "saudi_workers": 635,
+    "expat_workers": 1350,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 2.58
+  },
+  {
+    "company": "Nguyen-Waters",
+    "region": "Al Khobar",
+    "total_workers": 544,
+    "saudi_workers": 130,
+    "expat_workers": 414,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 4.07
+  },
+  {
+    "company": "Allen-Sanford",
+    "region": "Medina",
+    "total_workers": 1190,
+    "saudi_workers": 1094,
+    "expat_workers": 96,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 2.06
+  },
+  {
+    "company": "Jones, Garcia and Green",
+    "region": "Mecca",
+    "total_workers": 1233,
+    "saudi_workers": 554,
+    "expat_workers": 679,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 2.79
+  },
+  {
+    "company": "Moran PLC",
+    "region": "Medina",
+    "total_workers": 1882,
+    "saudi_workers": 338,
+    "expat_workers": 1544,
+    "saudization_%": 18,
+    "category": "Red",
+    "growth": 2.94
+  },
+  {
+    "company": "Hampton, Stokes and Parks",
+    "region": "Dammam",
+    "total_workers": 580,
+    "saudi_workers": 452,
+    "expat_workers": 128,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 5.77
+  },
+  {
+    "company": "Wells PLC",
+    "region": "Yanbu",
+    "total_workers": 1418,
+    "saudi_workers": 992,
+    "expat_workers": 426,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 3.19
+  },
+  {
+    "company": "Grant, Robertson and Colon",
+    "region": "Taif",
+    "total_workers": 1127,
+    "saudi_workers": 698,
+    "expat_workers": 429,
+    "saudization_%": 62,
+    "category": "Green",
+    "growth": 3.66
+  },
+  {
+    "company": "Strong-Taylor",
+    "region": "Tabuk",
+    "total_workers": 900,
+    "saudi_workers": 270,
+    "expat_workers": 630,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 4.01
+  },
+  {
+    "company": "Russell, Harper and Chambers",
+    "region": "Taif",
+    "total_workers": 1313,
+    "saudi_workers": 472,
+    "expat_workers": 841,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 5.28
+  },
+  {
+    "company": "Avery, Haley and Sanchez",
+    "region": "Dammam",
+    "total_workers": 1722,
+    "saudi_workers": 1291,
+    "expat_workers": 431,
+    "saudization_%": 75,
+    "category": "Platinum",
+    "growth": 1.48
+  },
+  {
+    "company": "Chen-Parker",
+    "region": "Tabuk",
+    "total_workers": 1422,
+    "saudi_workers": 1208,
+    "expat_workers": 214,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 5.41
+  },
+  {
+    "company": "Wells-Rosario",
+    "region": "Yanbu",
+    "total_workers": 717,
+    "saudi_workers": 107,
+    "expat_workers": 610,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 3.37
+  },
+  {
+    "company": "Waters-Novak",
+    "region": "Dammam",
+    "total_workers": 1902,
+    "saudi_workers": 285,
+    "expat_workers": 1617,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 2.53
+  },
+  {
+    "company": "Johnson-Barnes",
+    "region": "Mecca",
+    "total_workers": 76,
+    "saudi_workers": 16,
+    "expat_workers": 60,
+    "saudization_%": 22,
+    "category": "Red",
+    "growth": 4.86
+  },
+  {
+    "company": "Espinoza-Brown",
+    "region": "Abha",
+    "total_workers": 1592,
+    "saudi_workers": 716,
+    "expat_workers": 876,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 3.7
+  },
+  {
+    "company": "Price, Brooks and Perez",
+    "region": "Abha",
+    "total_workers": 1637,
+    "saudi_workers": 1391,
+    "expat_workers": 246,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 5.54
+  },
+  {
+    "company": "Hall-Thomas",
+    "region": "Riyadh",
+    "total_workers": 417,
+    "saudi_workers": 221,
+    "expat_workers": 196,
+    "saudization_%": 53,
+    "category": "Green",
+    "growth": 1.04
+  },
+  {
+    "company": "Nielsen and Sons",
+    "region": "Abha",
+    "total_workers": 837,
+    "saudi_workers": 602,
+    "expat_workers": 235,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 3.97
+  },
+  {
+    "company": "Castro-Coleman",
+    "region": "Jeddah",
+    "total_workers": 397,
+    "saudi_workers": 242,
+    "expat_workers": 155,
+    "saudization_%": 61,
+    "category": "Green",
+    "growth": 1.24
+  },
+  {
+    "company": "Joyce, Simmons and Mcdonald",
+    "region": "Riyadh",
+    "total_workers": 105,
+    "saudi_workers": 47,
+    "expat_workers": 58,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 5.72
+  },
+  {
+    "company": "Johnson Inc",
+    "region": "Taif",
+    "total_workers": 758,
+    "saudi_workers": 492,
+    "expat_workers": 266,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 5.81
+  },
+  {
+    "company": "Cabrera, Hernandez and Baker",
+    "region": "Al Khobar",
+    "total_workers": 1400,
+    "saudi_workers": 1330,
+    "expat_workers": 70,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 1.09
+  },
+  {
+    "company": "Gonzalez Inc",
+    "region": "Tabuk",
+    "total_workers": 1459,
+    "saudi_workers": 641,
+    "expat_workers": 818,
+    "saudization_%": 44,
+    "category": "Yellow",
+    "growth": 3.72
+  },
+  {
+    "company": "Hart, Lamb and Tate",
+    "region": "Jeddah",
+    "total_workers": 1010,
+    "saudi_workers": 505,
+    "expat_workers": 505,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 5.67
+  },
+  {
+    "company": "French-Rodriguez",
+    "region": "Medina",
+    "total_workers": 764,
+    "saudi_workers": 152,
+    "expat_workers": 612,
+    "saudization_%": 20,
+    "category": "Red",
+    "growth": 3.34
+  },
+  {
+    "company": "Webster Group",
+    "region": "Tabuk",
+    "total_workers": 1229,
+    "saudi_workers": 405,
+    "expat_workers": 824,
+    "saudization_%": 33,
+    "category": "Yellow",
+    "growth": 4.44
+  },
+  {
+    "company": "Lutz Group",
+    "region": "Tabuk",
+    "total_workers": 1422,
+    "saudi_workers": 1038,
+    "expat_workers": 384,
+    "saudization_%": 73,
+    "category": "Platinum",
+    "growth": 5.2
+  },
+  {
+    "company": "Mcdonald-Meyer",
+    "region": "Tabuk",
+    "total_workers": 277,
+    "saudi_workers": 216,
+    "expat_workers": 61,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 4.35
+  },
+  {
+    "company": "Torres, Phillips and Buchanan",
+    "region": "Jeddah",
+    "total_workers": 1232,
+    "saudi_workers": 862,
+    "expat_workers": 370,
+    "saudization_%": 70,
+    "category": "Green",
+    "growth": 0.65
+  },
+  {
+    "company": "Steele-Lawson",
+    "region": "Yanbu",
+    "total_workers": 539,
+    "saudi_workers": 420,
+    "expat_workers": 119,
+    "saudization_%": 78,
+    "category": "Platinum",
+    "growth": 3.79
+  },
+  {
+    "company": "Torres Inc",
+    "region": "Medina",
+    "total_workers": 1570,
+    "saudi_workers": 1381,
+    "expat_workers": 189,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 2.61
+  },
+  {
+    "company": "Jones and Sons",
+    "region": "Medina",
+    "total_workers": 1710,
+    "saudi_workers": 495,
+    "expat_workers": 1215,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 2.24
+  },
+  {
+    "company": "Rivera-Chapman",
+    "region": "Mecca",
+    "total_workers": 65,
+    "saudi_workers": 16,
+    "expat_workers": 49,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 1.36
+  },
+  {
+    "company": "Ramirez LLC",
+    "region": "Abha",
+    "total_workers": 1278,
+    "saudi_workers": 472,
+    "expat_workers": 806,
+    "saudization_%": 37,
+    "category": "Yellow",
+    "growth": 2.89
+  },
+  {
+    "company": "Steele and Sons",
+    "region": "Al Khobar",
+    "total_workers": 223,
+    "saudi_workers": 151,
+    "expat_workers": 72,
+    "saudization_%": 68,
+    "category": "Green",
+    "growth": 5.44
+  },
+  {
+    "company": "Smith-Bird",
+    "region": "Jeddah",
+    "total_workers": 473,
+    "saudi_workers": 236,
+    "expat_workers": 237,
+    "saudization_%": 50,
+    "category": "Yellow",
+    "growth": 1.48
+  },
+  {
+    "company": "Aguilar and Sons",
+    "region": "Al Khobar",
+    "total_workers": 852,
+    "saudi_workers": 741,
+    "expat_workers": 111,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 0.65
+  },
+  {
+    "company": "Morales Group",
+    "region": "Yanbu",
+    "total_workers": 1340,
+    "saudi_workers": 777,
+    "expat_workers": 563,
+    "saudization_%": 58,
+    "category": "Green",
+    "growth": 1.83
+  },
+  {
+    "company": "Gallagher, Watkins and Olsen",
+    "region": "Riyadh",
+    "total_workers": 1780,
+    "saudi_workers": 1673,
+    "expat_workers": 107,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 0.74
+  },
+  {
+    "company": "Wright-Wade",
+    "region": "Mecca",
+    "total_workers": 1773,
+    "saudi_workers": 1684,
+    "expat_workers": 89,
+    "saudization_%": 95,
+    "category": "Platinum",
+    "growth": 4.88
+  },
+  {
+    "company": "Colon-Howell",
+    "region": "Medina",
+    "total_workers": 776,
+    "saudi_workers": 597,
+    "expat_workers": 179,
+    "saudization_%": 77,
+    "category": "Platinum",
+    "growth": 3.4
+  },
+  {
+    "company": "Powers, Garner and Holt",
+    "region": "Medina",
+    "total_workers": 1487,
+    "saudi_workers": 594,
+    "expat_workers": 893,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 5.85
+  },
+  {
+    "company": "Hernandez-Curry",
+    "region": "Abha",
+    "total_workers": 538,
+    "saudi_workers": 215,
+    "expat_workers": 323,
+    "saudization_%": 40,
+    "category": "Yellow",
+    "growth": 4.45
+  },
+  {
+    "company": "Fox, Cook and Hensley",
+    "region": "Medina",
+    "total_workers": 1643,
+    "saudi_workers": 1330,
+    "expat_workers": 313,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 4.74
+  },
+  {
+    "company": "Schultz-Cohen",
+    "region": "Al Khobar",
+    "total_workers": 1241,
+    "saudi_workers": 372,
+    "expat_workers": 869,
+    "saudization_%": 30,
+    "category": "Red",
+    "growth": 3.58
+  },
+  {
+    "company": "Morris, Vincent and Bell",
+    "region": "Yanbu",
+    "total_workers": 674,
+    "saudi_workers": 566,
+    "expat_workers": 108,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 2.69
+  },
+  {
+    "company": "Munoz, Thompson and Faulkner",
+    "region": "Riyadh",
+    "total_workers": 1538,
+    "saudi_workers": 584,
+    "expat_workers": 954,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 4.87
+  },
+  {
+    "company": "Fox PLC",
+    "region": "Tabuk",
+    "total_workers": 740,
+    "saudi_workers": 281,
+    "expat_workers": 459,
+    "saudization_%": 38,
+    "category": "Yellow",
+    "growth": 5.82
+  },
+  {
+    "company": "James, Barry and Taylor",
+    "region": "Medina",
+    "total_workers": 667,
+    "saudi_workers": 460,
+    "expat_workers": 207,
+    "saudization_%": 69,
+    "category": "Green",
+    "growth": 4.23
+  },
+  {
+    "company": "Woodard Group",
+    "region": "Tabuk",
+    "total_workers": 412,
+    "saudi_workers": 82,
+    "expat_workers": 330,
+    "saudization_%": 20,
+    "category": "Red",
+    "growth": 2.84
+  },
+  {
+    "company": "Gregory-Mccoy",
+    "region": "Al Khobar",
+    "total_workers": 605,
+    "saudi_workers": 193,
+    "expat_workers": 412,
+    "saudization_%": 32,
+    "category": "Yellow",
+    "growth": 2.63
+  },
+  {
+    "company": "Allen-Mcdonald",
+    "region": "Yanbu",
+    "total_workers": 340,
+    "saudi_workers": 299,
+    "expat_workers": 41,
+    "saudization_%": 88,
+    "category": "Platinum",
+    "growth": 0.67
+  },
+  {
+    "company": "Robinson-Kerr",
+    "region": "Al Khobar",
+    "total_workers": 1320,
+    "saudi_workers": 1214,
+    "expat_workers": 106,
+    "saudization_%": 92,
+    "category": "Platinum",
+    "growth": 2.49
+  },
+  {
+    "company": "Taylor, Gutierrez and Owens",
+    "region": "Dammam",
+    "total_workers": 1869,
+    "saudi_workers": 448,
+    "expat_workers": 1421,
+    "saudization_%": 24,
+    "category": "Red",
+    "growth": 5.02
+  },
+  {
+    "company": "Cox, Adams and Wade",
+    "region": "Tabuk",
+    "total_workers": 1359,
+    "saudi_workers": 258,
+    "expat_workers": 1101,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 2.25
+  },
+  {
+    "company": "Chavez LLC",
+    "region": "Riyadh",
+    "total_workers": 658,
+    "saudi_workers": 125,
+    "expat_workers": 533,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 5.18
+  },
+  {
+    "company": "Mitchell, Murillo and Salinas",
+    "region": "Tabuk",
+    "total_workers": 865,
+    "saudi_workers": 700,
+    "expat_workers": 165,
+    "saudization_%": 81,
+    "category": "Platinum",
+    "growth": 3.27
+  },
+  {
+    "company": "Gardner, Gomez and Owens",
+    "region": "Al Khobar",
+    "total_workers": 1564,
+    "saudi_workers": 250,
+    "expat_workers": 1314,
+    "saudization_%": 16,
+    "category": "Red",
+    "growth": 3.81
+  },
+  {
+    "company": "Smith and Sons",
+    "region": "Medina",
+    "total_workers": 1601,
+    "saudi_workers": 576,
+    "expat_workers": 1025,
+    "saudization_%": 36,
+    "category": "Yellow",
+    "growth": 1.03
+  },
+  {
+    "company": "Ball-Johnson",
+    "region": "Dammam",
+    "total_workers": 617,
+    "saudi_workers": 357,
+    "expat_workers": 260,
+    "saudization_%": 58,
+    "category": "Green",
+    "growth": 2.86
+  },
+  {
+    "company": "Paul-Holmes",
+    "region": "Medina",
+    "total_workers": 606,
+    "saudi_workers": 436,
+    "expat_workers": 170,
+    "saudization_%": 72,
+    "category": "Platinum",
+    "growth": 0.55
+  },
+  {
+    "company": "Johnson-Graham",
+    "region": "Taif",
+    "total_workers": 363,
+    "saudi_workers": 217,
+    "expat_workers": 146,
+    "saudization_%": 60,
+    "category": "Green",
+    "growth": 1.91
+  },
+  {
+    "company": "Howard-Wheeler",
+    "region": "Riyadh",
+    "total_workers": 810,
+    "saudi_workers": 437,
+    "expat_workers": 373,
+    "saudization_%": 54,
+    "category": "Green",
+    "growth": 2.72
+  },
+  {
+    "company": "Simpson Ltd",
+    "region": "Al Khobar",
+    "total_workers": 910,
+    "saudi_workers": 409,
+    "expat_workers": 501,
+    "saudization_%": 45,
+    "category": "Yellow",
+    "growth": 2.09
+  },
+  {
+    "company": "Cook, Thomas and Smith",
+    "region": "Riyadh",
+    "total_workers": 873,
+    "saudi_workers": 471,
+    "expat_workers": 402,
+    "saudization_%": 54,
+    "category": "Green",
+    "growth": 4.2
+  },
+  {
+    "company": "Robinson-Craig",
+    "region": "Riyadh",
+    "total_workers": 1320,
+    "saudi_workers": 1095,
+    "expat_workers": 225,
+    "saudization_%": 83,
+    "category": "Platinum",
+    "growth": 4.07
+  },
+  {
+    "company": "Martin Group",
+    "region": "Al Khobar",
+    "total_workers": 1930,
+    "saudi_workers": 984,
+    "expat_workers": 946,
+    "saudization_%": 51,
+    "category": "Green",
+    "growth": 3.38
+  },
+  {
+    "company": "Moreno and Sons",
+    "region": "Taif",
+    "total_workers": 1302,
+    "saudi_workers": 1093,
+    "expat_workers": 209,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 4.52
+  },
+  {
+    "company": "Durham-Willis",
+    "region": "Mecca",
+    "total_workers": 995,
+    "saudi_workers": 288,
+    "expat_workers": 707,
+    "saudization_%": 29,
+    "category": "Red",
+    "growth": 1.99
+  },
+  {
+    "company": "Hayes-Johnson",
+    "region": "Jeddah",
+    "total_workers": 92,
+    "saudi_workers": 52,
+    "expat_workers": 40,
+    "saudization_%": 57,
+    "category": "Green",
+    "growth": 2.71
+  },
+  {
+    "company": "Watson-Jacobs",
+    "region": "Abha",
+    "total_workers": 552,
+    "saudi_workers": 309,
+    "expat_workers": 243,
+    "saudization_%": 56,
+    "category": "Green",
+    "growth": 2.86
+  },
+  {
+    "company": "Jones-Gonzales",
+    "region": "Mecca",
+    "total_workers": 560,
+    "saudi_workers": 257,
+    "expat_workers": 303,
+    "saudization_%": 46,
+    "category": "Yellow",
+    "growth": 0.72
+  },
+  {
+    "company": "Price, Haynes and Villarreal",
+    "region": "Mecca",
+    "total_workers": 1749,
+    "saudi_workers": 1486,
+    "expat_workers": 263,
+    "saudization_%": 85,
+    "category": "Platinum",
+    "growth": 1.16
+  },
+  {
+    "company": "Jackson Ltd",
+    "region": "Al Khobar",
+    "total_workers": 302,
+    "saudi_workers": 229,
+    "expat_workers": 73,
+    "saudization_%": 76,
+    "category": "Platinum",
+    "growth": 4.98
+  },
+  {
+    "company": "Gray Ltd",
+    "region": "Yanbu",
+    "total_workers": 450,
+    "saudi_workers": 193,
+    "expat_workers": 257,
+    "saudization_%": 43,
+    "category": "Yellow",
+    "growth": 2.23
+  },
+  {
+    "company": "Hayes PLC",
+    "region": "Dammam",
+    "total_workers": 268,
+    "saudi_workers": 214,
+    "expat_workers": 54,
+    "saudization_%": 80,
+    "category": "Platinum",
+    "growth": 5.03
+  },
+  {
+    "company": "Walters, Chaney and Hill",
+    "region": "Riyadh",
+    "total_workers": 548,
+    "saudi_workers": 460,
+    "expat_workers": 88,
+    "saudization_%": 84,
+    "category": "Platinum",
+    "growth": 0.62
+  },
+  {
+    "company": "Burns Ltd",
+    "region": "Al Khobar",
+    "total_workers": 1919,
+    "saudi_workers": 518,
+    "expat_workers": 1401,
+    "saudization_%": 27,
+    "category": "Red",
+    "growth": 4.66
+  },
+  {
+    "company": "Johnson-Bentley",
+    "region": "Jeddah",
+    "total_workers": 1801,
+    "saudi_workers": 1692,
+    "expat_workers": 109,
+    "saudization_%": 94,
+    "category": "Platinum",
+    "growth": 4.41
+  },
+  {
+    "company": "Shaw-Fox",
+    "region": "Yanbu",
+    "total_workers": 1518,
+    "saudi_workers": 288,
+    "expat_workers": 1230,
+    "saudization_%": 19,
+    "category": "Red",
+    "growth": 2.8
+  },
+  {
+    "company": "Dyer PLC",
+    "region": "Abha",
+    "total_workers": 1276,
+    "saudi_workers": 191,
+    "expat_workers": 1085,
+    "saudization_%": 15,
+    "category": "Red",
+    "growth": 3.38
+  },
+  {
+    "company": "Lane-Lawrence",
+    "region": "Al Khobar",
+    "total_workers": 1972,
+    "saudi_workers": 493,
+    "expat_workers": 1479,
+    "saudization_%": 25,
+    "category": "Red",
+    "growth": 1.74
+  },
+  {
+    "company": "Joseph LLC",
+    "region": "Jeddah",
+    "total_workers": 1187,
+    "saudi_workers": 1032,
+    "expat_workers": 155,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 4.83
+  },
+  {
+    "company": "Ray Group",
+    "region": "Al Khobar",
+    "total_workers": 1497,
+    "saudi_workers": 793,
+    "expat_workers": 704,
+    "saudization_%": 53,
+    "category": "Green",
+    "growth": 1.71
+  },
+  {
+    "company": "Malone-Norman",
+    "region": "Taif",
+    "total_workers": 937,
+    "saudi_workers": 609,
+    "expat_workers": 328,
+    "saudization_%": 65,
+    "category": "Green",
+    "growth": 3.77
+  },
+  {
+    "company": "Wright Ltd",
+    "region": "Al Khobar",
+    "total_workers": 1007,
+    "saudi_workers": 594,
+    "expat_workers": 413,
+    "saudization_%": 59,
+    "category": "Green",
+    "growth": 1.64
+  },
+  {
+    "company": "Hubbard, Sawyer and Martin",
+    "region": "Yanbu",
+    "total_workers": 486,
+    "saudi_workers": 306,
+    "expat_workers": 180,
+    "saudization_%": 63,
+    "category": "Green",
+    "growth": 2.96
+  },
+  {
+    "company": "Webb Ltd",
+    "region": "Tabuk",
+    "total_workers": 121,
+    "saudi_workers": 108,
+    "expat_workers": 13,
+    "saudization_%": 90,
+    "category": "Platinum",
+    "growth": 5.78
+  },
+  {
+    "company": "Myers-Flores",
+    "region": "Riyadh",
+    "total_workers": 937,
+    "saudi_workers": 815,
+    "expat_workers": 122,
+    "saudization_%": 87,
+    "category": "Platinum",
+    "growth": 3.1
+  }
+]
