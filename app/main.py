@@ -15,6 +15,7 @@ app = FastAPI(title="StaffTract.AI Backend", version="1.0")
 origins = [
     "http://localhost:5173",
     "https://stafftract-ai.vercel.app",
+    "https://stafftract.vercel.app/",
     "https://roshn-hackathon-stafftract-crew-okb19guz-geetha-k-ss-projects.vercel.app",
 ]
 
