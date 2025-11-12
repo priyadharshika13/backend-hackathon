@@ -2,7 +2,7 @@
 import json, os
 
 router = APIRouter(prefix="/api/recruitment", tags=["Recruitment AI Copilot"])
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(_file_)))
+# BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(_file_)))
 DATA_PATH = os.path.join(BASE_DIR, "mock_data", "recruitment_summary.json")
 
 def load_data():
